@@ -1,0 +1,2354 @@
+node_modules/vitest/vitest.mjs
+  s_a408aacd0cd067::t_e3b80ab43521e4 1-2
+node_modules/@deepseek-ai/dsh-llm/lib/types/message.js
+  s_a408aacd0cd067::t_af72f40c2d1bdf 1-100
+node_modules/@jridgewell/sourcemap-codec/types/vlq.d.mts
+  s_a408aacd0cd067::t_5c86d8b26d8329 1-7
+node_modules/typescript/lib/typescript.d.ts
+  s_a408aacd0cd067::t_172feee2d3e1c4 1-11437
+node_modules/@deepseek-ai/dsh-attachment/README.md
+  s_a408aacd0cd067::t_49b7d865d5dff8 1-23
+node_modules/picomatch/posix.js
+  s_a408aacd0cd067::t_3090c6ba3c0166 1-3
+node_modules/@vitest/runner/dist/types.js
+  s_a408aacd0cd067::t_e10f4b097df32b 1
+node_modules/@deepseek-ai/dsh-attachment/lib/types/index.d.ts
+  s_a408aacd0cd067::t_5afeb2a99882ae 1-51
+node_modules/chai/lib/chai/utils/addProperty.js
+  s_a408aacd0cd067::t_52362645973ac7 1-70
+node_modules/vite/dist/node/cli.js
+  s_a408aacd0cd067::t_a4f3d2ada89cb5 1-698
+node_modules/loupe/lib/array.d.ts
+  s_a408aacd0cd067::t_a92117655c53fc 1-3
+node_modules/@standard-schema/spec/dist/index.d.cts
+  s_a408aacd0cd067::t_2228a99e35a225 1-119
+node_modules/rollup/dist/native.js
+  s_a408aacd0cd067::t_a6718bee014ad2 1-167
+node_modules/typescript/lib/lib.es2015.promise.d.ts
+  s_a408aacd0cd067::t_9bad765ace01e4 1-81
+node_modules/@vitest/mocker/dist/register.js
+  s_a408aacd0cd067::t_bc2106d10db8ae 1-41
+node_modules/@deepseek-ai/cosmokit/lib/types/time.d.ts
+  s_a408aacd0cd067::t_9c459f6ed0f61a 1-19
+node_modules/picocolors/picocolors.js
+  s_a408aacd0cd067::t_5f3bafc848356b 1-75
+node_modules/std-env/dist/index.d.mts
+  s_a408aacd0cd067::t_d4186e8f384a24 1-92
+node_modules/chai/lib/chai/utils/getOperator.js
+  s_a408aacd0cd067::t_350d5874271801 1-58
+node_modules/rollup/dist/parseAst.d.ts
+  s_a408aacd0cd067::t_b7e4bb6bb1105f 1-4
+node_modules/pathe/dist/index.d.cts
+  s_a408aacd0cd067::t_854658e817dd0f 1-47
+node_modules/@vitest/utils/dist/source-map.js
+  s_a408aacd0cd067::t_6b5e868f733948 1-996
+node_modules/@deepseek-ai/dsh-session/lib/types/surface.d.ts
+  s_a408aacd0cd067::t_cf80532a20d706 1-123
+node_modules/typescript/lib/tr/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_63a30fe21c9002 1-2122
+node_modules/@vitest/mocker/dist/auto-register.d.ts
+  s_a408aacd0cd067::t_0d768ce1b1d35b 1-2
+node_modules/@jridgewell/sourcemap-codec/types/sourcemap-codec.d.cts
+  s_a408aacd0cd067::t_0d2c19e4f73edf 1-9
+node_modules/loupe/lib/date.js
+  s_a408aacd0cd067::t_197f2688033e57 1-11
+node_modules/@deepseek-ai/cordis/lib/types/service.d.ts
+  s_a408aacd0cd067::t_331a7de21f0b4a 1-55
+node_modules/postcss/lib/parser.js
+  s_a408aacd0cd067::t_c7f0ccce4b9cea 1-618
+node_modules/rollup/dist/getLogFilter.d.ts
+  s_a408aacd0cd067::t_422e18b5649128 1-5
+node_modules/cac/deno/Command.ts
+  s_a408aacd0cd067::t_fd6eac393dba9d 1-269
+node_modules/tinybench/dist/index.d.cts
+  s_a408aacd0cd067::t_47d19453d75e50 1-319
+node_modules/esbuild/LICENSE.md
+  s_a408aacd0cd067::t_f0adb3a3ee0c5e 1-21
+node_modules/vitest/coverage.d.ts
+  s_a408aacd0cd067::t_c13ee33e88fcb1 1
+node_modules/nanoid/index.browser.js
+  s_a408aacd0cd067::t_4d9529d8647ad1 1-45
+node_modules/expect-type/dist/index.js
+  s_a408aacd0cd067::t_84b384eb10dc7e 1-106
+node_modules/cac/deno/deno.ts
+  s_a408aacd0cd067::t_04cbbc40cc266b 1-4
+node_modules/fdir/package.json
+  s_a408aacd0cd067::t_32ea048c7c7182 1-103
+node_modules/pathe/dist/index.d.mts
+  s_a408aacd0cd067::t_80ab6c826b4c21 1-47
+node_modules/vitest/dist/workers.js
+  s_a408aacd0cd067::t_268e3e60f91ebe 1-30
+node_modules/tinyspy/package.json
+  s_a408aacd0cd067::t_f7a50f6839d176 1-37
+node_modules/pathval/README.md
+  s_a408aacd0cd067::t_e2c9636f21e882 1-147
+node_modules/vitest/dist/chunks/cli-api.DVe0nWUx.js
+  s_a408aacd0cd067::t_35e489b3496e28 1-10660
+node_modules/vitest/dist/workers/forks.js
+  s_a408aacd0cd067::t_cf5fd67ed45203 1-43
+node_modules/typescript/lib/lib.d.ts
+  s_a408aacd0cd067::t_665278fe55dc80 1-22
+node_modules/@deepseek-ai/dsh-agent/lib/types/index.js
+  s_a408aacd0cd067::t_9a410738045ef6 1-474
+node_modules/typescript/lib/lib.es2018.d.ts
+  s_a408aacd0cd067::t_b2f0147f056d47 1-24
+node_modules/typescript/lib/lib.esnext.iterator.d.ts
+  s_a408aacd0cd067::t_547306ca906fb1 1-148
+node_modules/typescript/lib/lib.webworker.iterable.d.ts
+  s_a408aacd0cd067::t_0ab1e65ca47dfc 1-340
+node_modules/postcss/lib/rule.js
+  s_a408aacd0cd067::t_b5e0ff776bac95 1-27
+node_modules/tinyexec/dist/main.cjs
+  s_a408aacd0cd067::t_de47e4c22e76d3 1-575
+node_modules/.package-lock.json
+  s_a408aacd0cd067::t_357e57b39bb15b 1-1844
+node_modules/@jridgewell/sourcemap-codec/types/scopes.d.cts
+  s_a408aacd0cd067::t_d0960feac03d11 1-50
+node_modules/tinyspy/LICENCE
+  s_a408aacd0cd067::t_a24294da47999a 1-21
+node_modules/nanoid/README.md
+  s_a408aacd0cd067::t_4e96e1c82e68fc 1-39
+node_modules/@deepseek-ai/dsh-typert-protocol/README.i18n.yaml
+  s_a408aacd0cd067::t_6877f6078be6b4 1-6
+node_modules/vite-node/dist/index.d.ts
+  s_a408aacd0cd067::t_7ddf937cdb9c82 1-2
+node_modules/tinybench/dist/index.cjs
+  s_a408aacd0cd067::t_bcf198305f5ca2 1-585
+node_modules/typescript/lib/lib.es2019.object.d.ts
+  s_a408aacd0cd067::t_76e226a1531610 1-33
+node_modules/.bin/vitest
+  s_a408aacd0cd067::t_88318b28b11c45 1-16
+node_modules/typescript/lib/lib.es2017.string.d.ts
+  s_a408aacd0cd067::t_dc5fe71e585b1d 1-45
+node_modules/@vitest/snapshot/dist/index.d.ts
+  s_a408aacd0cd067::t_423aef12db9f0c 1-137
+node_modules/es-module-lexer/dist/lexer.cjs
+  s_a408aacd0cd067::t_2dd7bbc2b5177f 1
+node_modules/@deepseek-ai/dsh-llm/lib/types/content.d.ts
+  s_a408aacd0cd067::t_cda3a8e34d8984 1-25
+node_modules/postcss/lib/input.d.ts
+  s_a408aacd0cd067::t_44dba7482753b0 1-226
+node_modules/@deepseek-ai/dsh-brand/lib/invariant.js
+  s_a408aacd0cd067::t_e420df9350b3e1 1-23
+node_modules/rollup/dist/shared/index.js
+  s_a408aacd0cd067::t_14d88327f15a96 1-9615
+node_modules/@deepseek-ai/dsh-typert-protocol/README.md
+  s_a408aacd0cd067::t_06e8d108d5e62b 1-38
+node_modules/@deepseek-ai/cordis/lib/types/reflect.d.ts
+  s_a408aacd0cd067::t_a09c93be3075cc 1-186
+node_modules/loupe/lib/html.d.ts
+  s_a408aacd0cd067::t_7d6504737577e4 1-6
+node_modules/vitest/dist/chunks/typechecker.DRKU1-1g.js
+  s_a408aacd0cd067::t_712fa98ca61126 1-874
+node_modules/pathval/LICENSE
+  s_a408aacd0cd067::t_fe07fec1b1a5fc 1-16
+node_modules/vitest/suite.d.ts
+  s_a408aacd0cd067::t_f1c83c9d558796 1
+node_modules/js-tokens/index.js
+  s_a408aacd0cd067::t_036b0cc4aaa84b 1-396
+node_modules/nanoid/async/index.cjs
+  s_a408aacd0cd067::t_44f18dc85db55d 1-47
+node_modules/@deepseek-ai/schemastery/lib/index.mjs
+  s_a408aacd0cd067::t_5c5b38ba91a6e7 1-596
+node_modules/typescript/lib/lib.es2018.promise.d.ts
+  s_a408aacd0cd067::t_737bffb5a63169 1-30
+node_modules/@deepseek-ai/dsh-attachment/README.zh.md
+  s_a408aacd0cd067::t_e2d68da0f8f31a 1-23
+node_modules/typescript/lib/lib.esnext.sharedmemory.d.ts
+  s_a408aacd0cd067::t_129362377b6f9a 1-25
+node_modules/vite-node/dist/source-map.mjs
+  s_a408aacd0cd067::t_3296580fa976c4 1-973
+node_modules/@vitest/snapshot/package.json
+  s_a408aacd0cd067::t_2e0c757f93e345 1-54
+node_modules/rollup/dist/es/parseAst.js
+  s_a408aacd0cd067::t_9548fbba0f988d 1-12
+node_modules/estree-walker/src/walker.js
+  s_a408aacd0cd067::t_5a084322f7ca68 1-61
+node_modules/@deepseek-ai/cosmokit/lib/types/array.d.ts
+  s_a408aacd0cd067::t_5e0a4ed79c4912 1-15
+node_modules/assertion-error/index.d.ts
+  s_a408aacd0cd067::t_7daae093633e82 1-27
+node_modules/typescript/lib/lib.decorators.d.ts
+  s_a408aacd0cd067::t_7a6da34c87365f 1-384
+node_modules/@deepseek-ai/cordis/src/fiber.ts
+  s_a408aacd0cd067::t_ad680b40256d17 1-754
+node_modules/siginfo/.travis.yml
+  s_a408aacd0cd067::t_c3a8caf35ab270 1-13
+node_modules/loupe/lib/set.d.ts.map
+  s_a408aacd0cd067::t_c55bcabf1403d9 1
+node_modules/vitest/dist/chunks/mocker.d.BE_2ls6u.d.ts
+  s_a408aacd0cd067::t_0d448f43271a2e 1-17
+node_modules/vite-node/dist/constants.cjs
+  s_a408aacd0cd067::t_4c32fea0fe684f 1-36
+node_modules/pathe/LICENSE
+  s_a408aacd0cd067::t_989e35ddcb758a 1-70
+node_modules/@deepseek-ai/dsh-scope/LICENSE
+  s_a408aacd0cd067::t_faa1bc55cac7b8 1-21
+node_modules/typescript/lib/lib.es2024.promise.d.ts
+  s_a408aacd0cd067::t_c06998f23bc178 1-35
+node_modules/cac/mod.js
+  s_a408aacd0cd067::t_ecfb7d015a92ef 1-2
+node_modules/postcss/lib/warn-once.js
+  s_a408aacd0cd067::t_d573df3bdce497 1-13
+node_modules/fdir/dist/index.d.cts
+  s_a408aacd0cd067::t_d9189d970a10d2 1-155
+node_modules/vitest/dist/config.d.ts
+  s_a408aacd0cd067::t_0f29b68813131d 1-100
+node_modules/nanoid/url-alphabet/package.json
+  s_a408aacd0cd067::t_fc2481583723a2 1-6
+node_modules/typescript/lib/de/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_a710c2a63a6ab5 1-2122
+node_modules/chai/lib/chai/utils/getActual.js
+  s_a408aacd0cd067::t_414f816299db7e 1-20
+node_modules/vite-node/dist/client.d.ts
+  s_a408aacd0cd067::t_df1fc3152208ff 1-2
+node_modules/loupe/lib/types.js
+  s_a408aacd0cd067::t_eb79fe2a7b4b24 1
+node_modules/expect-type/dist/index.d.ts
+  s_a408aacd0cd067::t_66879f389218ec 1-946
+node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_1c30109b550a74 1-2122
+node_modules/@deepseek-ai/dsh-llm/lib/types/error.d.ts
+  s_a408aacd0cd067::t_b2729f0961fc54 1-73
+node_modules/cac/mod.ts
+  s_a408aacd0cd067::t_811deb4d71c404 1-2
+node_modules/picomatch/package.json
+  s_a408aacd0cd067::t_5a6d744b5251cf 1-83
+node_modules/pathval/index.js
+  s_a408aacd0cd067::t_aa236d6b3abba3 1-292
+node_modules/@deepseek-ai/cordis/src/reflect.ts
+  s_a408aacd0cd067::t_0d03591b0172ed 1-418
+node_modules/@deepseek-ai/cosmokit/src/time.ts
+  s_a408aacd0cd067::t_99b71779da0cd9 1-92
+node_modules/@deepseek-ai/dsh-system-prompt/README.zh.md
+  s_a408aacd0cd067::t_3d14f72ddd028c 1-92
+node_modules/vitest/dist/chunks/benchmark.d.BwvBVTda.d.ts
+  s_a408aacd0cd067::t_459bb5c3b37ec0 1-24
+node_modules/picomatch/lib/picomatch.js
+  s_a408aacd0cd067::t_5099d42a2b586a 1-361
+node_modules/@vitest/snapshot/environment.d.ts
+  s_a408aacd0cd067::t_ee15d5eb61036f 1
+node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts
+  s_a408aacd0cd067::t_7197f171847e7f 1-99
+node_modules/@deepseek-ai/dsh-session/lib/types/known-event-types.js
+  s_a408aacd0cd067::t_82648a9bd2020c 1-68
+node_modules/@vitest/pretty-format/LICENSE
+  s_a408aacd0cd067::t_529b644fe0d5a3 1-21
+node_modules/typescript/lib/lib.es2017.intl.d.ts
+  s_a408aacd0cd067::t_531ba94f563cdd 1-44
+node_modules/@deepseek-ai/dsh-session/lib/types/preparation.js
+  s_a408aacd0cd067::t_26b61dc4c3eed2 1-37
+node_modules/estree-walker/package.json
+  s_a408aacd0cd067::t_c44c248c5d7a2c 1-38
+node_modules/rollup/dist/es/package.json
+  s_a408aacd0cd067::t_8d68e2576e93ac 1
+node_modules/estree-walker/types/index.d.ts
+  s_a408aacd0cd067::t_06f508964b73aa 1-32
+node_modules/typescript/lib/lib.es2024.sharedmemory.d.ts
+  s_a408aacd0cd067::t_def29d694b87b1 1-68
+node_modules/fdir/README.md
+  s_a408aacd0cd067::t_341d40366ef14d 1-91
+node_modules/typescript/lib/lib.es2022.string.d.ts
+  s_a408aacd0cd067::t_cbdc1ef94172e7 1-25
+node_modules/postcss/lib/postcss.d.mts
+  s_a408aacd0cd067::t_e4c2e9e7bec32f 1-66
+node_modules/@deepseek-ai/dsh-llm/lib/types/call-config.d.ts
+  s_a408aacd0cd067::t_45a3d1641c8deb 1-62
+node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts
+  s_a408aacd0cd067::t_8c41d00cb32173 1-326
+node_modules/@deepseek-ai/dsh-attachment/lib/types/invariant.js
+  s_a408aacd0cd067::t_e6e2d4f41dc64b 1-16
+node_modules/debug/src/index.js
+  s_a408aacd0cd067::t_0bc9edcb00f9d8 1-10
+node_modules/loupe/lib/index.d.ts
+  s_a408aacd0cd067::t_c03448d05d1211 1-7
+node_modules/nanoid/index.d.ts
+  s_a408aacd0cd067::t_01f380b581ab37 1-91
+node_modules/pathval/package.json
+  s_a408aacd0cd067::t_a85ba000e2b8ef 1-64
+node_modules/vitest/index.cjs
+  s_a408aacd0cd067::t_44c9513f77bae5 1-5
+node_modules/expect-type/dist/messages.d.ts
+  s_a408aacd0cd067::t_ec271bfed27c2e 1-168
+node_modules/@deepseek-ai/dsh-typert-protocol/lib/index.js
+  s_a408aacd0cd067::t_e81a2f2292cab6 1-140
+node_modules/vite/types/internal/lightningcssOptions.d.ts
+  s_a408aacd0cd067::t_a6d638bd71aa76 1-18
+node_modules/@vitest/runner/dist/index.js
+  s_a408aacd0cd067::t_2eab376d7ef025 1-6
+node_modules/stackback/README.md
+  s_a408aacd0cd067::t_c779585544ae8a 1-41
+node_modules/@deepseek-ai/dsh-session/lib/types/known-event-types.d.ts
+  s_a408aacd0cd067::t_69c1c09bb32688 1-19
+node_modules/deep-eql/package.json
+  s_a408aacd0cd067::t_55f2aeca4c01e8 1-73
+node_modules/chai/lib/chai/utils/transferFlags.js
+  s_a408aacd0cd067::t_fb7880bdee2d5e 1-48
+node_modules/@vitest/runner/utils.d.ts
+  s_a408aacd0cd067::t_75562f85b77a32 1
+node_modules/chai/lib/chai/utils/test.js
+  s_a408aacd0cd067::t_df2939553205a3 1-24
+node_modules/vite/dist/node/chunks/config.js
+  s_a408aacd0cd067::t_ea502a3cb83445 1-36065
+node_modules/@deepseek-ai/dsh-typert-protocol/lib/types/types.js
+  s_a408aacd0cd067::t_4f551a9b12316d 1-7
+node_modules/std-env/package.json
+  s_a408aacd0cd067::t_709b2730c4065e 1-46
+node_modules/vitest/runners.d.ts
+  s_a408aacd0cd067::t_81655e91886131 1
+node_modules/typescript/lib/watchGuard.js
+  s_a408aacd0cd067::t_0f6a61fb4c8d92 1-53
+node_modules/@deepseek-ai/schemastery/lib/index.cjs
+  s_a408aacd0cd067::t_a6f6b9d2556bd5 1-596
+node_modules/@jridgewell/sourcemap-codec/types/strings.d.cts
+  s_a408aacd0cd067::t_228546e4a6a64d 1-16
+node_modules/@deepseek-ai/cosmokit/src/string.ts
+  s_a408aacd0cd067::t_c7c0fd0824bafa 1-113
+node_modules/source-map-js/lib/source-map-consumer.d.ts
+  s_a408aacd0cd067::t_f62276be7e5f3f 1
+node_modules/loupe/lib/number.d.ts
+  s_a408aacd0cd067::t_8f347b5dad3d85 1-3
+node_modules/postcss/lib/previous-map.js
+  s_a408aacd0cd067::t_655ee20b5c9fce 1-176
+node_modules/vitest/mocker.d.ts
+  s_a408aacd0cd067::t_d1a58b65b5eae5 1
+node_modules/.bin/vite-node.ps1
+  s_a408aacd0cd067::t_1f94f68defcd1b 1-28
+node_modules/@deepseek-ai/dsh-attachment/lib/invariant.js
+  s_a408aacd0cd067::t_e32212328f27d2 1-17
+node_modules/@rollup/rollup-win32-x64-gnu/package.json
+  s_a408aacd0cd067::t_919cd6e995a76c 1-22
+node_modules/strip-literal/README.md
+  s_a408aacd0cd067::t_ab45d0d282d4ff 1-29
+node_modules/@deepseek-ai/dsh-llm/lib/types/retry-policy.d.ts
+  s_a408aacd0cd067::t_4ae4c038817047 1-66
+node_modules/vitest/dist/chunks/vite.d.BnOPPc46.d.ts
+  s_a408aacd0cd067::t_1a91927212c74d 1-25
+node_modules/vite-node/dist/source-map.d.ts
+  s_a408aacd0cd067::t_7467c15d1348e8 1-15
+node_modules/std-env/dist/index.mjs
+  s_a408aacd0cd067::t_49f716a0937be3 1
+node_modules/vite/misc/true.js
+  s_a408aacd0cd067::t_7495d126f105d5 1
+node_modules/rollup/LICENSE.md
+  s_a408aacd0cd067::t_04a2dd212d91ac 1-679
+node_modules/vitest/dist/execute.d.ts
+  s_a408aacd0cd067::t_12fae5e105b1c8 1-150
+node_modules/@vitest/mocker/dist/node.js
+  s_a408aacd0cd067::t_488787e921b4a0 1-1306
+node_modules/@types/chai/index.d.ts
+  s_a408aacd0cd067::t_d489840b960aca 1-2145
+node_modules/@deepseek-ai/dsh-llm/lib/types/adapter-failure.d.ts
+  s_a408aacd0cd067::t_e22278e01e0cf1 1-14
+node_modules/@deepseek-ai/dsh-timeout/LICENSE
+  s_a408aacd0cd067::t_18bc94996ee993 1-21
+node_modules/@deepseek-ai/dsh-llm/lib/types/content.js
+  s_a408aacd0cd067::t_57be31c4b6d4ad 1-84
+node_modules/@deepseek-ai/dsh-llm/LICENSE
+  s_a408aacd0cd067::t_398b9fcb3f5f36 1-21
+node_modules/@deepseek-ai/dsh-session/lib/invariant.js
+  s_a408aacd0cd067::t_e442a009389be1 1-168
+node_modules/@deepseek-ai/dsh-agent/lib/types/types.d.ts
+  s_a408aacd0cd067::t_9dde9aa14b1205 1-25
+node_modules/@deepseek-ai/dsh-invariants/lib/index.js
+  s_a408aacd0cd067::t_c02d2fe689dd8a 1-123
+node_modules/postcss/lib/stringifier.d.ts
+  s_a408aacd0cd067::t_37736c01a006a2 1-45
+node_modules/@deepseek-ai/cordis/lib/types/fiber.d.ts.map
+  s_a408aacd0cd067::t_8b452fa456f6fb 1
+node_modules/vite/README.md
+  s_a408aacd0cd067::t_cba5daa783a7bf 1-20
+node_modules/@deepseek-ai/dsh-scope/lib/invariant.js
+  s_a408aacd0cd067::t_9b09d19ff2f217 1-72
+node_modules/postcss/lib/root.js
+  s_a408aacd0cd067::t_86909d4edbd3e7 1-76
+node_modules/cac/dist/index.mjs
+  s_a408aacd0cd067::t_a6a0a32a529a8a 1-617
+node_modules/@deepseek-ai/dsh-llm/lib/types/brand.js
+  s_a408aacd0cd067::t_de8ebce9753bed 1-44
+node_modules/chai/lib/chai/utils/expectTypes.js
+  s_a408aacd0cd067::t_297cada4e71286 1-58
+node_modules/vitest/dist/workers/threads.js
+  s_a408aacd0cd067::t_0246d0ee40a235 1-31
+node_modules/vite-node/dist/hmr.mjs
+  s_a408aacd0cd067::t_54e7fe88da8fee 1-9
+node_modules/vite-node/dist/trace-mapping.d-DLVdEqOp.d.ts
+  s_a408aacd0cd067::t_fd0140cda5c625 1-57
+node_modules/@deepseek-ai/dsh-session/lib/types/index.d.ts
+  s_a408aacd0cd067::t_bb55e0e8434801 1-418
+node_modules/loupe/lib/bigint.d.ts
+  s_a408aacd0cd067::t_1843d18cb60d35 1-3
+node_modules/typescript/lib/lib.esnext.disposable.d.ts
+  s_a408aacd0cd067::t_fa06573794b8fd 1-193
+node_modules/debug/package.json
+  s_a408aacd0cd067::t_090c5ca4eb488b 1-64
+node_modules/nanoid/url-alphabet/index.cjs
+  s_a408aacd0cd067::t_6ce912f7aed3ab 1-4
+node_modules/typescript/lib/lib.es2016.array.include.d.ts
+  s_a408aacd0cd067::t_b0e32aa0769afd 1-116
+node_modules/vitest/dist/chunks/rpc.-pEldfrD.js
+  s_a408aacd0cd067::t_152df51a8cff82 1-83
+node_modules/stackback/formatstack.js
+  s_a408aacd0cd067::t_31de776cd6470d 1-57
+node_modules/vite-node/dist/index.d-DGmxD2U7.d.ts
+  s_a408aacd0cd067::t_bf14abaf80c8d6 1-363
+node_modules/@vitest/snapshot/dist/rawSnapshot.d-lFsMJFUd.d.ts
+  s_a408aacd0cd067::t_98c439880ef963 1-61
+node_modules/@deepseek-ai/dsh-agent/lib/types/consumed-work.d.ts
+  s_a408aacd0cd067::t_b4d773f4ae122e 1-39
+node_modules/vitest/jsdom.d.ts
+  s_a408aacd0cd067::t_a67eef6c021c4c 1-6
+node_modules/typescript/lib/it/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_19e3090a4ba4db 1-2122
+node_modules/@vitest/snapshot/dist/manager.d.ts
+  s_a408aacd0cd067::t_e3a501e2970bdc 1-18
+node_modules/loupe/lib/string.js
+  s_a408aacd0cd067::t_ce8a3f9c669c2d 1-24
+node_modules/typescript/lib/lib.es2024.d.ts
+  s_a408aacd0cd067::t_f5ef97d844011b 1-26
+node_modules/.bin/why-is-node-running.ps1
+  s_a408aacd0cd067::t_335b6d196e0d3a 1-28
+node_modules/.bin/tsc.ps1
+  s_a408aacd0cd067::t_3a3894d6e52cac 1-28
+node_modules/js-tokens/README.md
+  s_a408aacd0cd067::t_56076eb4bf17e9 1-14
+node_modules/postcss/lib/postcss.mjs
+  s_a408aacd0cd067::t_c78c26a877206c 1-30
+node_modules/@jridgewell/sourcemap-codec/types/vlq.d.cts.map
+  s_a408aacd0cd067::t_e31a0f213ee9db 1
+node_modules/typescript/lib/lib.es2023.array.d.ts
+  s_a408aacd0cd067::t_0edd5ecc2ed00a 1-924
+node_modules/@deepseek-ai/dsh-llm/lib/invariant.js
+  s_a408aacd0cd067::t_33ba92582e932f 1-84
+node_modules/loupe/lib/class.d.ts.map
+  s_a408aacd0cd067::t_9fd8e5371ccfe7 1
+node_modules/typescript/lib/lib.es2021.d.ts
+  s_a408aacd0cd067::t_56084e8401dfde 1-23
+node_modules/vite/bin/vite.js
+  s_a408aacd0cd067::t_836a65b2ce494e 1-79
+node_modules/chai/lib/chai/utils/compareByInspect.js
+  s_a408aacd0cd067::t_35fa67654a82b6 1-26
+node_modules/cac/deno/index.ts
+  s_a408aacd0cd067::t_09c5c67f12da7a 1-10
+node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_0791cc4b227d45 1-2122
+node_modules/@deepseek-ai/dsh-llm/lib/types/assembler.js
+  s_a408aacd0cd067::t_3935e39cd41ab5 1-191
+node_modules/@deepseek-ai/dsh-scope/README.md
+  s_a408aacd0cd067::t_f4f430b7900e47 1-37
+node_modules/@deepseek-ai/cosmokit/lib/types/index.d.ts
+  s_a408aacd0cd067::t_d2e036c31bfba6 1-11
+node_modules/vitest/dist/chunks/worker.d.CUgIPz9V.d.ts
+  s_a408aacd0cd067::t_ed9f99b0b117a9 1-176
+node_modules/rollup/dist/es/shared/parseAst.js
+  s_a408aacd0cd067::t_9fb5e396325f72 1-2124
+node_modules/@deepseek-ai/dsh-session/lib/types/index.js
+  s_a408aacd0cd067::t_14ebd00589292a 1-999
+node_modules/vite/types/customEvent.d.ts
+  s_a408aacd0cd067::t_8e1fd15917e54b 1-50
+node_modules/@vitest/mocker/dist/node.d.ts
+  s_a408aacd0cd067::t_d98e9d349a80db 1-821
+node_modules/chai/lib/chai/utils/proxify.js
+  s_a408aacd0cd067::t_782586bc0cb6d9 1-158
+node_modules/rollup/dist/parseAst.js
+  s_a408aacd0cd067::t_4d33f06344fa8f 1-22
+node_modules/pathe/utils.d.ts
+  s_a408aacd0cd067::t_f78aaeeecbb3ef 1
+node_modules/vitest/dist/chunks/coverage.d.S9RMNXIe.d.ts
+  s_a408aacd0cd067::t_1efa5827f82ca7 1-35
+node_modules/vite-node/dist/cli.d.ts
+  s_a408aacd0cd067::t_c5e1b0bc54ae50 1-19
+node_modules/vite-node/dist/utils.d.ts
+  s_a408aacd0cd067::t_c21761fd5d32f9 1-32
+node_modules/@vitest/runner/dist/utils.d.ts
+  s_a408aacd0cd067::t_da656f8ffb8d66 1-47
+node_modules/source-map-js/lib/binary-search.js
+  s_a408aacd0cd067::t_154c74592965b8 1-111
+node_modules/nanoid/nanoid.js
+  s_a408aacd0cd067::t_1185c65469b5ab 1
+node_modules/loupe/lib/map.d.ts.map
+  s_a408aacd0cd067::t_c799842d31d69a 1
+node_modules/@vitest/utils/dist/helpers.js
+  s_a408aacd0cd067::t_d2192d9d9e902c 1-251
+node_modules/@deepseek-ai/dsh-scope/lib/types/scoped-events.generated.d.ts
+  s_a408aacd0cd067::t_0f4ffae346a149 1-18
+node_modules/std-env/LICENCE
+  s_a408aacd0cd067::t_71c2688e921437 1-22
+node_modules/@deepseek-ai/dsh-agent/lib/types/invariant.d.ts
+  s_a408aacd0cd067::t_847c11cc8a6229 1-13
+node_modules/vitest/snapshot.d.ts
+  s_a408aacd0cd067::t_17677a8f1e4596 1
+node_modules/@deepseek-ai/dsh-agent/lib/types/invariant.js
+  s_a408aacd0cd067::t_0eb9d39562bb05 1-24
+node_modules/@deepseek-ai/cordis/src/index.ts
+  s_a408aacd0cd067::t_f28b0033afc564 1-14
+node_modules/tinyspy/dist/index.js
+  s_a408aacd0cd067::t_959f31062bedaf 1-202
+node_modules/@deepseek-ai/cosmokit/src/array.ts
+  s_a408aacd0cd067::t_b57a2c1805e3e2 1-42
+node_modules/@deepseek-ai/dsh-invariants/README.i18n.yaml
+  s_a408aacd0cd067::t_45c1892bae4f47 1-6
+node_modules/vite/dist/node/chunks/chunk.js
+  s_a408aacd0cd067::t_a1c024d0a9e3ca 1-48
+node_modules/assertion-error/package.json
+  s_a408aacd0cd067::t_5e03402e07ef17 1-32
+node_modules/@deepseek-ai/dsh-attachment/lib/types/error.d.ts
+  s_a408aacd0cd067::t_0759d89d605496 1-35
+node_modules/rollup/dist/bin/rollup
+  s_a408aacd0cd067::t_66a19b3337a356 1-1908
+node_modules/chai/README.md
+  s_a408aacd0cd067::t_c6b13682a12e6f 1-162
+node_modules/@deepseek-ai/dsh-llm/lib/types/adapter-failure.js
+  s_a408aacd0cd067::t_deb19301563cd2 1-105
+node_modules/postcss/lib/input.js
+  s_a408aacd0cd067::t_bcbbec92ef2123 1-282
+node_modules/estree-walker/src/index.js
+  s_a408aacd0cd067::t_23dea922301741 1-34
+node_modules/pathe/README.md
+  s_a408aacd0cd067::t_144e0b4d99a480 1-73
+node_modules/loupe/lib/error.js
+  s_a408aacd0cd067::t_5da0718fcef1b5 1-35
+node_modules/@deepseek-ai/dsh-session/lib/types/types.d.ts
+  s_a408aacd0cd067::t_219f9d00c4c49a 1-458
+node_modules/@deepseek-ai/dsh-timeout/lib/invariant.js
+  s_a408aacd0cd067::t_3be13ed5aef9fc 1-23
+node_modules/@jridgewell/sourcemap-codec/types/scopes.d.mts.map
+  s_a408aacd0cd067::t_c351dee8fa94f1 1
+node_modules/strip-literal/dist/index.mjs
+  s_a408aacd0cd067::t_bcb9eb2aae5604 1-80
+node_modules/postcss/lib/map-generator.js
+  s_a408aacd0cd067::t_2366840168828a 1-376
+node_modules/picomatch/lib/utils.js
+  s_a408aacd0cd067::t_c45f0daa767b74 1-72
+node_modules/tinypool/dist/utils-B--2TaWv.js
+  s_a408aacd0cd067::t_fa176feb7ce44f 1-38
+node_modules/.bin/vite.cmd
+  s_a408aacd0cd067::t_b49ff3d72a8c27 1-17
+node_modules/@vitest/snapshot/dist/manager.js
+  s_a408aacd0cd067::t_17d469f54569ba 1-73
+node_modules/typescript/lib/ko/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_6e7fc805398207 1-2122
+node_modules/loupe/LICENSE
+  s_a408aacd0cd067::t_05df32718be297 1-9
+node_modules/typescript/lib/cs/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_c8fa0c6b71192b 1-2122
+node_modules/vitest/dist/chunks/index.VByaPkjc.js
+  s_a408aacd0cd067::t_e313efb3c22efd 1-2183
+node_modules/loupe/lib/arguments.js
+  s_a408aacd0cd067::t_2ec980dd14eda5 1-7
+node_modules/vitest/dist/mocker.d.ts
+  s_a408aacd0cd067::t_38f30544d56ad1 1
+node_modules/loupe/lib/promise.js
+  s_a408aacd0cd067::t_eeb07197cd087f 1-2
+node_modules/.bin/vite.ps1
+  s_a408aacd0cd067::t_3c05743b2aa945 1-28
+node_modules/tinybench/LICENSE
+  s_a408aacd0cd067::t_48ba4b27036f86 1-21
+node_modules/vite-node/dist/server.cjs
+  s_a408aacd0cd067::t_f3378141d20269 1-440
+node_modules/pathe/dist/utils.cjs
+  s_a408aacd0cd067::t_174b5dc3e9ea0d 1-82
+node_modules/@deepseek-ai/dsh-llm/lib/types/assembler.d.ts
+  s_a408aacd0cd067::t_e83dd34f30cf0f 1-75
+node_modules/std-env/dist/index.cjs
+  s_a408aacd0cd067::t_9f3ad855ffbe6f 1
+node_modules/typescript/lib/lib.es2024.arraybuffer.d.ts
+  s_a408aacd0cd067::t_6a79d57c557fe0 1-65
+node_modules/@deepseek-ai/cordis/src/logger.ts
+  s_a408aacd0cd067::t_7d7755a5bf4435 1-270
+node_modules/why-is-node-running/example.js
+  s_a408aacd0cd067::t_65d4fe089083d0 1-15
+node_modules/@vitest/utils/dist/source-map.d.ts
+  s_a408aacd0cd067::t_f01b27945b1a14 1-139
+node_modules/loupe/lib/regexp.js
+  s_a408aacd0cd067::t_3f9facc28fe24c 1-7
+node_modules/source-map-js/lib/util.js
+  s_a408aacd0cd067::t_edf557ea9d93bc 1-594
+node_modules/loupe/lib/array.d.ts.map
+  s_a408aacd0cd067::t_0072df19df5714 1
+node_modules/@jridgewell/sourcemap-codec/types/strings.d.mts.map
+  s_a408aacd0cd067::t_fe7d258d66aab2 1
+node_modules/postcss/lib/at-rule.js
+  s_a408aacd0cd067::t_d1521d0ff77425 1-25
+node_modules/.bin/tsserver
+  s_a408aacd0cd067::t_6e19ece2b5b1da 1-16
+node_modules/@deepseek-ai/dsh-invariants/README.md
+  s_a408aacd0cd067::t_072599ba6c3f88 1-85
+node_modules/loupe/lib/bigint.d.ts.map
+  s_a408aacd0cd067::t_1b251223f4fa57 1
+node_modules/loupe/lib/symbol.js
+  s_a408aacd0cd067::t_a5ee0a965c0a33 1-6
+node_modules/typescript/lib/lib.es2021.intl.d.ts
+  s_a408aacd0cd067::t_65f2fd467c9b77 1-166
+node_modules/@vitest/utils/package.json
+  s_a408aacd0cd067::t_42a45aea8d5e2d 1-77
+node_modules/deep-eql/README.md
+  s_a408aacd0cd067::t_203b24e2b19809 1-93
+node_modules/vitest/dist/spy.js
+  s_a408aacd0cd067::t_52be8abf650df5 1
+node_modules/@deepseek-ai/dsh-timeout/lib/index.js
+  s_a408aacd0cd067::t_c0f2e31d5c4e59 1-140
+node_modules/nanoid/index.d.cts
+  s_a408aacd0cd067::t_1e9bf1427761fc 1-91
+node_modules/postcss/lib/parse.d.ts
+  s_a408aacd0cd067::t_c46089e69b9ca7 1-9
+node_modules/.bin/vitest.cmd
+  s_a408aacd0cd067::t_c49ea08db3137b 1-17
+node_modules/source-map-js/README.md
+  s_a408aacd0cd067::t_e017a51c1fec1d 1-765
+node_modules/loupe/lib/number.d.ts.map
+  s_a408aacd0cd067::t_5621d0974b84a1 1
+node_modules/vite/dist/node/module-runner.js
+  s_a408aacd0cd067::t_f2bd1325e24f5a 1-1160
+node_modules/@deepseek-ai/dsh-llm/lib/types/index.d.ts
+  s_a408aacd0cd067::t_430b958e0b079b 1-341
+node_modules/@types/estree/LICENSE
+  s_a408aacd0cd067::t_eb6d4168d1d7b8 1-21
+node_modules/chai/lib/chai/utils/addChainableMethod.js
+  s_a408aacd0cd067::t_cc2323190b5d14 1-146
+node_modules/typescript/lib/ja/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_d8f7c22523eb47 1-2122
+node_modules/@jridgewell/sourcemap-codec/src/vlq.ts
+  s_a408aacd0cd067::t_7108beeb53aafa 1-55
+node_modules/@deepseek-ai/dsh-llm/package.json
+  s_a408aacd0cd067::t_a5e0887845930b 1-64
+node_modules/vite/dist/node/chunks/logger.js
+  s_a408aacd0cd067::t_818faec3739165 1-329
+node_modules/strip-literal/package.json
+  s_a408aacd0cd067::t_a04d0ca3df0fea 1-60
+node_modules/@vitest/expect/README.md
+  s_a408aacd0cd067::t_533a6eb6926912 1-21
+node_modules/tinyrainbow/dist/node.js
+  s_a408aacd0cd067::t_4eb3342aff498f 1-22
+node_modules/postcss/lib/tokenize.js
+  s_a408aacd0cd067::t_8112b1aed17eac 1-270
+node_modules/postcss/lib/rule.d.ts
+  s_a408aacd0cd067::t_871173cb3db606 1-126
+node_modules/fdir/dist/index.mjs
+  s_a408aacd0cd067::t_073861f5b15c02 1-570
+node_modules/postcss/lib/list.d.ts
+  s_a408aacd0cd067::t_1b6eacd35ebcd9 1-60
+node_modules/@deepseek-ai/dsh-invariants/lib/invariant.js
+  s_a408aacd0cd067::t_ba6b6e1f7bbbb5 1-23
+node_modules/@vitest/mocker/dist/chunk-pathe.M-eThtNZ.js
+  s_a408aacd0cd067::t_deacd14b2aaeb7 1-174
+node_modules/postcss/lib/result.d.ts
+  s_a408aacd0cd067::t_5e303ccf16e3be 1-204
+node_modules/@deepseek-ai/dsh-typert-protocol/lib/types/index.d.ts
+  s_a408aacd0cd067::t_b38176684f52da 1-101
+node_modules/@deepseek-ai/dsh-system-prompt/lib/invariant.js
+  s_a408aacd0cd067::t_8b41240a683b75 1-49
+node_modules/tinyglobby/dist/index.d.cts
+  s_a408aacd0cd067::t_89d84fb58543fe 1-148
+node_modules/typescript/lib/lib.es2022.object.d.ts
+  s_a408aacd0cd067::t_73ba7b4216e8b7 1-26
+node_modules/@deepseek-ai/dsh-agent/lib/types/runtime-types.js
+  s_a408aacd0cd067::t_f13b020293ba34 1-8
+node_modules/vitest/dist/chunks/utils.XdZDrNZV.js
+  s_a408aacd0cd067::t_604464cbbea46e 1-65
+node_modules/postcss/lib/postcss.js
+  s_a408aacd0cd067::t_91b0afde89c5a0 1-101
+node_modules/@deepseek-ai/dsh-typert-protocol/package.json
+  s_a408aacd0cd067::t_4ed09f30f305e0 1-47
+node_modules/strip-literal/dist/index.cjs
+  s_a408aacd0cd067::t_9b55b75bb71b45 1-88
+node_modules/@deepseek-ai/dsh-attachment/lib/types/error.js
+  s_a408aacd0cd067::t_9d4ef0ed683c10 1-49
+node_modules/rollup/README.md
+  s_a408aacd0cd067::t_6ae1436bc21482 1-134
+node_modules/@deepseek-ai/dsh-session/README.md
+  s_a408aacd0cd067::t_9b73fc74c9b10d 1-144
+node_modules/vitest/dist/index.d.ts
+  s_a408aacd0cd067::t_712172aeb1a3c1 1-651
+node_modules/loupe/lib/map.js
+  s_a408aacd0cd067::t_89744fa3459d84 1-22
+node_modules/@deepseek-ai/dsh-llm/lib/types/api-key.js
+  s_a408aacd0cd067::t_1e7ab4e9e00d41 1-34
+node_modules/@deepseek-ai/dsh-brand/package.json
+  s_a408aacd0cd067::t_4440e1b53fa940 1-42
+node_modules/@deepseek-ai/dsh-attachment/lib/types/invariant.d.ts
+  s_a408aacd0cd067::t_35926166562ed1 1-13
+node_modules/@vitest/runner/dist/index.d.ts
+  s_a408aacd0cd067::t_1717c1018eef12 1-261
+node_modules/vite-node/dist/cli.cjs
+  s_a408aacd0cd067::t_b9d026dccb54a8 1-135
+node_modules/vitest/dist/chunks/config.d.BKdhh7Zx.d.ts
+  s_a408aacd0cd067::t_66cb8fe80b5bfd 1-224
+node_modules/vite-node/dist/types.d.ts
+  s_a408aacd0cd067::t_dbe24659502891 1-2
+node_modules/@deepseek-ai/dsh-typert-protocol/README.zh.md
+  s_a408aacd0cd067::t_7e8df193d7d286 1-38
+node_modules/ms/index.js
+  s_a408aacd0cd067::t_7ff3ba412be185 1-162
+node_modules/vitest/dist/chunks/environment.d.cL3nLXbE.d.ts
+  s_a408aacd0cd067::t_ea9f5ae95ec7f8 1-119
+node_modules/typescript/lib/lib.es2021.string.d.ts
+  s_a408aacd0cd067::t_202c8b2509f8ed 1-33
+node_modules/es-module-lexer/LICENSE
+  s_a408aacd0cd067::t_c0861c81eafb3c 1-10
+node_modules/vitest/dist/workers.d.ts
+  s_a408aacd0cd067::t_87baec4f1dbca5 1-40
+node_modules/estree-walker/LICENSE
+  s_a408aacd0cd067::t_5ebe9c5d124282 1-7
+node_modules/pathe/dist/index.mjs
+  s_a408aacd0cd067::t_1ffc618f143153 1-19
+node_modules/@deepseek-ai/cosmokit/lib/types/time.d.ts.map
+  s_a408aacd0cd067::t_5ef9efad5e913a 1
+node_modules/@deepseek-ai/dsh-session/lib/types/chunk-rows.js
+  s_a408aacd0cd067::t_8791a8a79143fd 1-301
+node_modules/why-is-node-running/cli.js
+  s_a408aacd0cd067::t_30229f8637bf08 1-18
+node_modules/vitest/dist/suite.d.ts
+  s_a408aacd0cd067::t_3ad7ad0c05dfd3 1-5
+node_modules/@deepseek-ai/cosmokit/src/types.ts
+  s_a408aacd0cd067::t_6c309f1321db8e 1-142
+node_modules/typescript/lib/lib.esnext.float16.d.ts
+  s_a408aacd0cd067::t_30a33b4ee21242 1-445
+node_modules/estree-walker/README.md
+  s_a408aacd0cd067::t_af405731c08669 1-48
+node_modules/vitest/README.md
+  s_a408aacd0cd067::t_8aa584ed3abccd 1-7
+node_modules/postcss/lib/postcss.d.ts
+  s_a408aacd0cd067::t_fc06106ad5eef6 1-464
+node_modules/@deepseek-ai/dsh-brand/LICENSE
+  s_a408aacd0cd067::t_c537d4c9e59521 1-21
+node_modules/@vitest/mocker/dist/register.d.ts
+  s_a408aacd0cd067::t_f2d7d30d55a665 1-9
+node_modules/vite-node/dist/utils.mjs
+  s_a408aacd0cd067::t_512f85fb79b5d1 1-198
+node_modules/vitest/dist/environments.d.ts
+  s_a408aacd0cd067::t_09ad9b4232bf65 1-26
+node_modules/vitest/dist/chunks/index.CdQS2e2Q.js
+  s_a408aacd0cd067::t_999790d607e0e1 1-37
+node_modules/loupe/lib/string.d.ts
+  s_a408aacd0cd067::t_d84c067264fbc4 1-3
+node_modules/loupe/lib/promise.d.ts.map
+  s_a408aacd0cd067::t_beec414ca17380 1
+node_modules/vite/types/package.json
+  s_a408aacd0cd067::t_8cb2bf94e3a4e2 1-4
+node_modules/@jridgewell/sourcemap-codec/types/scopes.d.mts
+  s_a408aacd0cd067::t_350ef87cd79201 1-50
+node_modules/@deepseek-ai/cordis/lib/types/service.d.ts.map
+  s_a408aacd0cd067::t_20f77e3c64ff89 1
+node_modules/typescript/lib/lib.es2015.symbol.d.ts
+  s_a408aacd0cd067::t_be061cde068126 1-46
+node_modules/nanoid/async/index.native.js
+  s_a408aacd0cd067::t_0e35531390f6c6 1-38
+node_modules/loupe/lib/typedarray.js
+  s_a408aacd0cd067::t_12d5cf2cf9d1d7 1-38
+node_modules/typescript/lib/lib.es2021.weakref.d.ts
+  s_a408aacd0cd067::t_ce6efeb128d19c 1-78
+node_modules/vite/dist/node/index.js
+  s_a408aacd0cd067::t_d4b325c613d7ce 1-30
+node_modules/@vitest/runner/package.json
+  s_a408aacd0cd067::t_53162d3cdd8eb0 1-49
+node_modules/magic-string/README.md
+  s_a408aacd0cd067::t_184b9a9b4b0660 1-325
+node_modules/cac/README.md
+  s_a408aacd0cd067::t_af8e3669cf797e 1-536
+node_modules/@types/estree/package.json
+  s_a408aacd0cd067::t_15270782fb0359 1-27
+node_modules/vitest/dist/runners.d.ts
+  s_a408aacd0cd067::t_160f1a7e5a12ce 1-46
+node_modules/@deepseek-ai/dsh-invariants/README.zh.md
+  s_a408aacd0cd067::t_48a32dbb0dbcea 1-85
+node_modules/@deepseek-ai/cosmokit/lib/types/types.d.ts
+  s_a408aacd0cd067::t_370e11601166a2 1-34
+node_modules/vitest/dist/chunks/cac.BfaZ95xE.js
+  s_a408aacd0cd067::t_a3c5f72fd0a395 1-1469
+node_modules/@vitest/spy/dist/index.d.ts
+  s_a408aacd0cd067::t_14e620b8b662b6 1-356
+node_modules/chai/lib/chai/utils/isNaN.js
+  s_a408aacd0cd067::t_2249c2334582d9 1-7
+node_modules/typescript/lib/lib.decorators.legacy.d.ts
+  s_a408aacd0cd067::t_3cec60f7167113 1-22
+node_modules/js-tokens/LICENSE
+  s_a408aacd0cd067::t_4217baf703da14 1-21
+node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts
+  s_a408aacd0cd067::t_1e6679920da264 1-77
+node_modules/postcss/lib/container.d.ts
+  s_a408aacd0cd067::t_0b9b28b5c0b891 1-478
+node_modules/postcss/lib/stringify.d.ts
+  s_a408aacd0cd067::t_2a31924d090b82 1-9
+node_modules/vite/dist/node/chunks/build.js
+  s_a408aacd0cd067::t_ffb332b2dfc180 1-4
+node_modules/@vitest/mocker/dist/redirect.js
+  s_a408aacd0cd067::t_b4502d6542b7de 1-75
+node_modules/@vitest/spy/dist/index.js
+  s_a408aacd0cd067::t_f7e19fbea44b55 1-191
+node_modules/@deepseek-ai/dsh-llm/lib/types/error.js
+  s_a408aacd0cd067::t_8fee46a495ceb9 1-145
+node_modules/typescript/lib/lib.webworker.d.ts
+  s_a408aacd0cd067::t_09d7996c7f6fa2 1-13150
+node_modules/typescript/lib/lib.es2015.core.d.ts
+  s_a408aacd0cd067::t_618dd20e7f6e9b 1-597
+node_modules/@deepseek-ai/dsh-attachment/LICENSE
+  s_a408aacd0cd067::t_c0f730d5240fb6 1-21
+node_modules/@types/deep-eql/package.json
+  s_a408aacd0cd067::t_74cbaf2d2d9ce6 1-25
+node_modules/@deepseek-ai/cordis/lib/types/context.d.ts.map
+  s_a408aacd0cd067::t_8206ceb9dd61a6 1
+node_modules/deep-eql/LICENSE
+  s_a408aacd0cd067::t_47685eb8b4ab5e 1-19
+node_modules/source-map-js/package.json
+  s_a408aacd0cd067::t_953b5912dd32a6 1-71
+node_modules/@deepseek-ai/dsh-scope/lib/types/store.d.ts
+  s_a408aacd0cd067::t_28ec5adbb7a9a7 1-147
+node_modules/picocolors/LICENSE
+  s_a408aacd0cd067::t_78e463bec5249f 1-15
+node_modules/@deepseek-ai/cordis/lib/types/index.d.ts.map
+  s_a408aacd0cd067::t_0f2c1051ee65f5 1
+node_modules/chai/lib/chai/utils/flag.js
+  s_a408aacd0cd067::t_6e480667d1c1fd 1-34
+node_modules/typescript/SECURITY.md
+  s_a408aacd0cd067::t_a76fd7f1be532c 1-41
+node_modules/expect-type/README.md
+  s_a408aacd0cd067::t_cf3624c2cea500 1-1027
+node_modules/debug/LICENSE
+  s_a408aacd0cd067::t_97da713146fe7a 1-20
+node_modules/@vitest/snapshot/README.md
+  s_a408aacd0cd067::t_1aa595722b13de 1-84
+node_modules/nanoid/async/index.browser.js
+  s_a408aacd0cd067::t_d1eeabfc728165 1-43
+node_modules/@deepseek-ai/dsh-session/lib/types/request-header.d.ts
+  s_a408aacd0cd067::t_11bd467f7a54e9 1-35
+node_modules/typescript/lib/lib.es2016.d.ts
+  s_a408aacd0cd067::t_505ad6ccddd99b 1-21
+node_modules/rollup/dist/rollup.js
+  s_a408aacd0cd067::t_6a128f57920910 1-129
+node_modules/@vitest/utils/dist/helpers.d.ts
+  s_a408aacd0cd067::t_c1b64ef08b81b7 1-56
+node_modules/picocolors/picocolors.browser.js
+  s_a408aacd0cd067::t_ee1dde81774a86 1-4
+node_modules/tinyglobby/dist/index.d.mts
+  s_a408aacd0cd067::t_0f6002086ddcff 1-148
+node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.umd.js.map
+  s_a408aacd0cd067::t_4a44e1fa0f481b 1-6
+node_modules/vitest/dist/coverage.js
+  s_a408aacd0cd067::t_8732264c97b7aa 1-34
+node_modules/vite-node/dist/server.mjs
+  s_a408aacd0cd067::t_f5128b115c821a 1-417
+node_modules/@vitest/utils/helpers.d.ts
+  s_a408aacd0cd067::t_1ff674219b04ee 1
+node_modules/@deepseek-ai/dsh-brand/README.zh.md
+  s_a408aacd0cd067::t_fdcadb79d2f0b1 1-28
+node_modules/@jridgewell/sourcemap-codec/types/sourcemap-codec.d.mts.map
+  s_a408aacd0cd067::t_19fa6f7fb9bc60 1
+node_modules/tinypool/README.md
+  s_a408aacd0cd067::t_df25ac2681ab41 1-20
+node_modules/@deepseek-ai/dsh-llm/README.md
+  s_a408aacd0cd067::t_92d12f9522143a 1-105
+node_modules/@deepseek-ai/dsh-agent/README.md
+  s_a408aacd0cd067::t_f709bfc8e42678 1-121
+node_modules/rollup/dist/es/rollup.js
+  s_a408aacd0cd067::t_28c42d01eb8c9b 1-17
+node_modules/@deepseek-ai/dsh-agent/lib/invariant.js
+  s_a408aacd0cd067::t_1826686b5abfdd 1-23
+node_modules/typescript/bin/tsc
+  s_a408aacd0cd067::t_d305ad88bbf86a 1-2
+node_modules/@deepseek-ai/cordis/LICENSE
+  s_a408aacd0cd067::t_1c480ab90ac9d7 1-21
+node_modules/vitest/dist/chunks/base.DfmxU-tU.js
+  s_a408aacd0cd067::t_ede12ddbff9948 1-38
+node_modules/@vitest/snapshot/dist/environment.js
+  s_a408aacd0cd067::t_f4a44b8a2ae26b 1-40
+node_modules/vite-node/dist/chunk-hmr.mjs
+  s_a408aacd0cd067::t_2d515077bb2355 1-241
+node_modules/vite/LICENSE.md
+  s_a408aacd0cd067::t_2b7aec3e81850a 1-2120
+node_modules/postcss/lib/root.d.ts
+  s_a408aacd0cd067::t_25ad3beb44a12d 1-86
+node_modules/tinypool/dist/index.js
+  s_a408aacd0cd067::t_33b898fc47a136 1-820
+node_modules/@deepseek-ai/dsh-system-prompt/package.json
+  s_a408aacd0cd067::t_025917a6193932 1-49
+node_modules/loupe/loupe.js
+  s_a408aacd0cd067::t_05f83ba58bdb84 1-622
+node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_ba914d6fca5624 1-2122
+node_modules/@deepseek-ai/dsh-attachment/README.i18n.yaml
+  s_a408aacd0cd067::t_bd162faec632ad 1-6
+node_modules/typescript/lib/typesMap.json
+  s_a408aacd0cd067::t_69b55f04c74fd9 1-497
+node_modules/vitest/dist/workers/runVmTests.js
+  s_a408aacd0cd067::t_df0e40e491663f 1-90
+node_modules/vitest/package.json
+  s_a408aacd0cd067::t_93ea715a1bf6fc 1-207
+node_modules/chai/lib/chai/config.js
+  s_a408aacd0cd067::t_ca4567cca3f6aa 1-112
+node_modules/vitest/dist/execute.js
+  s_a408aacd0cd067::t_0c811c18e47bda 1-13
+node_modules/chai/lib/chai/utils/addMethod.js
+  s_a408aacd0cd067::t_b5729e638754c4 1-66
+node_modules/vitest/dist/node.js
+  s_a408aacd0cd067::t_50bf1142c92a6a 1-105
+node_modules/typescript/lib/lib.esnext.promise.d.ts
+  s_a408aacd0cd067::t_04b371cb6593a2 1-34
+node_modules/chai/lib/chai/utils/inspect.js
+  s_a408aacd0cd067::t_a7793f22fb4db0 1-31
+node_modules/@types/estree/index.d.ts
+  s_a408aacd0cd067::t_ac62d6cdc1e922 1-694
+node_modules/@vitest/mocker/dist/auto-register.js
+  s_a408aacd0cd067::t_18c17feba140ae 1-9
+node_modules/pathe/dist/utils.d.cts
+  s_a408aacd0cd067::t_c86c1f95eb88a7 1-32
+node_modules/vitest/dist/chunks/defaults.B7q_naMc.js
+  s_a408aacd0cd067::t_0e7a66333ab9d3 1-115
+node_modules/@vitest/mocker/dist/browser.js
+  s_a408aacd0cd067::t_72dde0143a46a1 1-91
+node_modules/tinyglobby/dist/index.cjs
+  s_a408aacd0cd067::t_20a28e7af93a52 1-335
+node_modules/loupe/lib/helpers.d.ts
+  s_a408aacd0cd067::t_bd39929a00f606 1-7
+node_modules/@deepseek-ai/dsh-invariants/LICENSE
+  s_a408aacd0cd067::t_099a5814e13aa8 1-21
+node_modules/typescript/lib/lib.es6.d.ts
+  s_a408aacd0cd067::t_10e28d81da3972 1-23
+node_modules/@deepseek-ai/dsh-llm/lib/types/message.d.ts
+  s_a408aacd0cd067::t_46a65c1085d059 1-206
+node_modules/postcss/lib/stringifier.js
+  s_a408aacd0cd067::t_4bfe90639d965e 1-461
+node_modules/postcss/lib/list.js
+  s_a408aacd0cd067::t_d10fd04df8a3ac 1-59
+node_modules/typescript/lib/lib.es2020.d.ts
+  s_a408aacd0cd067::t_be9b84e9efa83a 1-27
+node_modules/ms/license.md
+  s_a408aacd0cd067::t_de0bcd7cbeab5f 1-21
+node_modules/@standard-schema/spec/package.json
+  s_a408aacd0cd067::t_aa91a0d9f0310c 1-52
+node_modules/@vitest/utils/dist/types.d.ts
+  s_a408aacd0cd067::t_8f3b3a892a7165 1-53
+node_modules/@vitest/mocker/dist/chunk-interceptor-native.js
+  s_a408aacd0cd067::t_d03c1d8f0e5f6e 1-15
+node_modules/vitest/LICENSE.md
+  s_a408aacd0cd067::t_ed3107493f43fa 1-707
+node_modules/nanoid/package.json
+  s_a408aacd0cd067::t_c3a455e08598dd 1-89
+node_modules/@deepseek-ai/cordis/lib/index.js
+  s_a408aacd0cd067::t_9070c7fd439eab 1-1828
+node_modules/rollup/dist/rollup.d.ts
+  s_a408aacd0cd067::t_2217a443f7242a 1-1208
+node_modules/@deepseek-ai/dsh-agent/lib/types/runtime-types.d.ts
+  s_a408aacd0cd067::t_2bb782938350fc 1-324
+node_modules/rollup/dist/loadConfigFile.js
+  s_a408aacd0cd067::t_bca01d0131105b 1-29
+node_modules/@deepseek-ai/dsh-scope/README.zh.md
+  s_a408aacd0cd067::t_74d63db6fe039d 1-37
+node_modules/es-module-lexer/package.json
+  s_a408aacd0cd067::t_e83106588bd84a 1-57
+node_modules/typescript/lib/lib.es2022.full.d.ts
+  s_a408aacd0cd067::t_d8b0207a90966b 1-24
+node_modules/@deepseek-ai/dsh-session/package.json
+  s_a408aacd0cd067::t_30c8d0f986d6c7 1-60
+node_modules/@deepseek-ai/dsh-scope/package.json
+  s_a408aacd0cd067::t_e6e077d19d2825 1-42
+node_modules/postcss/lib/no-work-result.d.ts
+  s_a408aacd0cd067::t_114e9034ccd5ec 1-45
+node_modules/@deepseek-ai/cordis/lib/types/logger.d.ts.map
+  s_a408aacd0cd067::t_ac0d8910130496 1
+node_modules/chai/lib/chai/utils/addLengthGuard.js
+  s_a408aacd0cd067::t_9ee5b6dcec2a09 1-73
+node_modules/fdir/LICENSE
+  s_a408aacd0cd067::t_2ccd270ef54b47 1-7
+node_modules/vitest/environments.d.ts
+  s_a408aacd0cd067::t_97391f8b807664 1
+node_modules/@deepseek-ai/cordis/src/registry.ts
+  s_a408aacd0cd067::t_d4d3ec0d99c99f 1-337
+node_modules/@deepseek-ai/dsh-typert-protocol/lib/types/invariant.js
+  s_a408aacd0cd067::t_111382891d123e 1-22
+node_modules/magic-string/dist/magic-string.umd.js
+  s_a408aacd0cd067::t_9744db8c12b1d6 1-1682
+node_modules/loupe/lib/function.d.ts.map
+  s_a408aacd0cd067::t_b43e178961a66d 1
+node_modules/nanoid/index.js
+  s_a408aacd0cd067::t_fe838452774aa8 1-63
+node_modules/@deepseek-ai/dsh-agent/lib/types/inbox.js
+  s_a408aacd0cd067::t_4cd37bf0c530a2 1-185
+node_modules/@rollup/rollup-win32-x64-gnu/README.md
+  s_a408aacd0cd067::t_51c58cdc5dbdbf 1-3
+node_modules/@deepseek-ai/dsh-agent/lib/types/model-selection.js
+  s_a408aacd0cd067::t_5fbe47f340bef1 1-53
+node_modules/vite-node/dist/index.mjs
+  s_a408aacd0cd067::t_7241d0cda88c1b 1
+node_modules/loupe/lib/function.js
+  s_a408aacd0cd067::t_a4ea0b1fde4e75 1-9
+node_modules/@jridgewell/sourcemap-codec/LICENSE
+  s_a408aacd0cd067::t_2857b28a91245c 1-19
+node_modules/@vitest/utils/dist/types.d-BCElaP-c.d.ts
+  s_a408aacd0cd067::t_3b5cab32c12e35 1-53
+node_modules/tinybench/package.json
+  s_a408aacd0cd067::t_21ce7b8a225f4e 1-27
+node_modules/@deepseek-ai/dsh-llm/lib/types/never.js
+  s_a408aacd0cd067::t_b269b862c3a449 1-21
+node_modules/tinypool/dist/entry/process.js
+  s_a408aacd0cd067::t_348e9e009f86c4 1-72
+node_modules/vite-node/dist/types.mjs
+  s_a408aacd0cd067::t_3328dfb43e782f 1
+node_modules/@deepseek-ai/cordis/lib/types/utils.d.ts.map
+  s_a408aacd0cd067::t_717baf2b301427 1
+node_modules/vitest/dist/chunks/date.Bq6ZW5rf.js
+  s_a408aacd0cd067::t_4f8e97273bc051 1-73
+node_modules/@deepseek-ai/dsh-typert-protocol/LICENSE
+  s_a408aacd0cd067::t_0e5ae6f9ee2cc0 1-21
+node_modules/typescript/README.md
+  s_a408aacd0cd067::t_02c1f927a4f035 1-50
+node_modules/es-module-lexer/README.md
+  s_a408aacd0cd067::t_6e4582d760ce23 1-338
+node_modules/@deepseek-ai/dsh-agent/lib/types/index.d.ts
+  s_a408aacd0cd067::t_38793772b01acc 1-385
+node_modules/cac/package.json
+  s_a408aacd0cd067::t_066bfacc48eb38 1-104
+node_modules/loupe/lib/html.js
+  s_a408aacd0cd067::t_08642b328e9563 1-42
+node_modules/nanoid/non-secure/index.d.ts
+  s_a408aacd0cd067::t_02a17e74a34fa4 1-33
+node_modules/loupe/lib/typedarray.d.ts
+  s_a408aacd0cd067::t_07782f7e8dd4aa 1-5
+node_modules/debug/README.md
+  s_a408aacd0cd067::t_23d0bd7ee786e5 1-481
+node_modules/.bin/tsserver.cmd
+  s_a408aacd0cd067::t_e7cc0c5ba3e051 1-17
+node_modules/typescript/lib/lib.es2023.collection.d.ts
+  s_a408aacd0cd067::t_b17d872f18eb75 1-21
+node_modules/typescript/lib/lib.es2019.d.ts
+  s_a408aacd0cd067::t_767d57f2bca35f 1-24
+node_modules/nanoid/async/index.d.ts
+  s_a408aacd0cd067::t_a4b91587c747a8 1-56
+node_modules/esbuild/package.json
+  s_a408aacd0cd067::t_8c6d0011a02a1d 1-74
+node_modules/@jridgewell/sourcemap-codec/src/scopes.ts
+  s_a408aacd0cd067::t_8387429b89960a 1-345
+node_modules/@vitest/utils/dist/diff.d.ts
+  s_a408aacd0cd067::t_81da9a862a7e2a 1-104
+node_modules/@deepseek-ai/dsh-timeout/lib/types/index.d.ts
+  s_a408aacd0cd067::t_ef59744dd2a312 1-93
+node_modules/@deepseek-ai/dsh-agent/lib/types/dispatch.d.ts
+  s_a408aacd0cd067::t_8143b41caf3f4f 1-111
+node_modules/@deepseek-ai/dsh-timeout/README.i18n.yaml
+  s_a408aacd0cd067::t_99489bb702e12b 1-6
+node_modules/vitest/dist/chunks/execute.B7h3T_Hc.js
+  s_a408aacd0cd067::t_e566b99965753a 1-708
+node_modules/nanoid/async/index.browser.cjs
+  s_a408aacd0cd067::t_b046b451a32469 1-43
+node_modules/vitest/dist/chunks/coverage.DfSpMS-b.js
+  s_a408aacd0cd067::t_9eb18ec36ad72b 1-4350
+node_modules/vite-node/dist/client.cjs
+  s_a408aacd0cd067::t_57e00c4ec85ee9 1-511
+node_modules/vitest/dist/node.d.ts
+  s_a408aacd0cd067::t_3b70d22111ff0c 1-158
+node_modules/@deepseek-ai/cosmokit/lib/types/misc.d.ts
+  s_a408aacd0cd067::t_e8081cec2579f1 1-41
+node_modules/vitest/reporters.d.ts
+  s_a408aacd0cd067::t_de13fccd187357 1
+node_modules/@deepseek-ai/cordis/src/service.ts
+  s_a408aacd0cd067::t_42555b8737c0f1 1-115
+node_modules/postcss/lib/comment.d.ts
+  s_a408aacd0cd067::t_20c86b8777ba5d 1-67
+node_modules/typescript/lib/lib.webworker.importscripts.d.ts
+  s_a408aacd0cd067::t_636aab19f87b1c 1-23
+node_modules/vitest/dist/chunks/runBaseTests.9Ij9_de-.js
+  s_a408aacd0cd067::t_de0a3213e5921a 1-129
+node_modules/@vitest/utils/dist/types.js
+  s_a408aacd0cd067::t_1eb6bf2f1c1731 1
+node_modules/@deepseek-ai/dsh-session/lib/index.js
+  s_a408aacd0cd067::t_4896bf1a1b1b8d 1-1890
+node_modules/@deepseek-ai/dsh-agent/README.zh.md
+  s_a408aacd0cd067::t_56afcdbb809285 1-121
+node_modules/@deepseek-ai/cordis/lib/types/reflect.d.ts.map
+  s_a408aacd0cd067::t_c5f7add4ca6f3f 1
+node_modules/loupe/lib/class.js
+  s_a408aacd0cd067::t_77b5ccaccda290 1-15
+node_modules/@deepseek-ai/dsh-attachment/lib/types/brand.d.ts
+  s_a408aacd0cd067::t_6422e146ece58d 1-11
+node_modules/loupe/lib/date.d.ts
+  s_a408aacd0cd067::t_76536a4772d4d2 1-3
+node_modules/@deepseek-ai/dsh-session/lib/types/chunk-rows.d.ts
+  s_a408aacd0cd067::t_6229c3de1ccd85 1-92
+node_modules/vitest/dist/workers/vmThreads.js
+  s_a408aacd0cd067::t_34d54583aa30c2 1-37
+node_modules/std-env/dist/index.d.cts
+  s_a408aacd0cd067::t_6c80529874edb5 1-92
+node_modules/es-module-lexer/dist/lexer.js
+  s_a408aacd0cd067::t_d57f3000104fbf 1-2
+node_modules/siginfo/LICENSE
+  s_a408aacd0cd067::t_75b7e74cd3fd01 1-13
+node_modules/expect-type/dist/branding.js
+  s_a408aacd0cd067::t_a10d442e44688e 1-2
+node_modules/postcss/lib/result.js
+  s_a408aacd0cd067::t_7b28cfb4f789b3 1-42
+node_modules/rollup/dist/es/shared/node-entry.js
+  s_a408aacd0cd067::t_822a02459932f6 1-24293
+node_modules/@deepseek-ai/dsh-typert-protocol/lib/invariant.js
+  s_a408aacd0cd067::t_74bcb32b0affb9 1-23
+node_modules/vitest/dist/chunks/_commonjsHelpers.BFTU3MAI.js
+  s_a408aacd0cd067::t_83c195d230b97a 1-7
+node_modules/@vitest/snapshot/LICENSE
+  s_a408aacd0cd067::t_095a0c077bed3e 1-21
+node_modules/typescript/lib/lib.es2020.intl.d.ts
+  s_a408aacd0cd067::t_66d0ee1fc53402 1-474
+node_modules/magic-string/dist/magic-string.es.d.mts
+  s_a408aacd0cd067::t_8dbee38af15c85 1-289
+node_modules/why-is-node-running/LICENSE
+  s_a408aacd0cd067::t_7c678ae4373065 1-21
+node_modules/pathe/dist/shared/pathe.BSlhyZSM.cjs
+  s_a408aacd0cd067::t_ca43ba68689e3a 1-266
+node_modules/es-module-lexer/lexer.js
+  s_a408aacd0cd067::t_c94aa241d71617 1-925
+node_modules/source-map-js/LICENSE
+  s_a408aacd0cd067::t_7d2a6efb2d296d 1-28
+node_modules/loupe/lib/date.d.ts.map
+  s_a408aacd0cd067::t_d5c0e5807efe6b 1
+node_modules/typescript/lib/lib.esnext.full.d.ts
+  s_a408aacd0cd067::t_c0b27049701c8a 1-24
+node_modules/cac/dist/index.d.ts
+  s_a408aacd0cd067::t_9c6bbdeb37ebfd 1-191
+node_modules/@deepseek-ai/cordis/src/events.ts
+  s_a408aacd0cd067::t_e5ae878ab4aecb 1-352
+node_modules/tinypool/dist/entry/utils.d.ts
+  s_a408aacd0cd067::t_0921307936dcdd 1-7
+node_modules/tinypool/dist/entry/worker.js
+  s_a408aacd0cd067::t_e47809b1e2863f 1-76
+node_modules/vitest/dist/chunks/index.CmSc2RE5.js
+  s_a408aacd0cd067::t_31ef689f884067 1-587
+node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts
+  s_a408aacd0cd067::t_a335fdb33ccf30 1-135
+node_modules/nanoid/index.cjs
+  s_a408aacd0cd067::t_4b93214c432fc3 1-58
+node_modules/vite-node/vite-node.mjs
+  s_a408aacd0cd067::t_9f64a8d7706c97 1-2
+node_modules/@deepseek-ai/dsh-brand/README.i18n.yaml
+  s_a408aacd0cd067::t_89ef40a7a9bce3 1-6
+node_modules/rollup/dist/es/getLogFilter.js
+  s_a408aacd0cd067::t_17e5d24a3de4e4 1-65
+node_modules/picomatch/index.js
+  s_a408aacd0cd067::t_3d32065e40c521 1-17
+node_modules/@deepseek-ai/cosmokit/lib/types/misc.d.ts.map
+  s_a408aacd0cd067::t_a8488a83beb07b 1
+node_modules/@vitest/mocker/dist/types.d-D_aRZRdy.d.ts
+  s_a408aacd0cd067::t_fb15a308f9fbe6 1-8
+node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.umd.js
+  s_a408aacd0cd067::t_b2da4386b5e41c 1-464
+node_modules/@jridgewell/sourcemap-codec/types/strings.d.mts
+  s_a408aacd0cd067::t_8b7a95efb38a9f 1-16
+node_modules/@deepseek-ai/schemastery/LICENSE
+  s_a408aacd0cd067::t_8fad2d0d3f41b5 1-21
+node_modules/typescript/lib/lib.es2020.promise.d.ts
+  s_a408aacd0cd067::t_bec69f92d0d086 1-47
+node_modules/@deepseek-ai/dsh-llm/lib/types/brand.d.ts
+  s_a408aacd0cd067::t_b99a9eac98202b 1-48
+node_modules/loupe/lib/string.d.ts.map
+  s_a408aacd0cd067::t_09bdf5e7fb8925 1
+node_modules/loupe/lib/map.d.ts
+  s_a408aacd0cd067::t_85adbb5260fed7 1-3
+node_modules/@deepseek-ai/dsh-llm/lib/types/call-config.js
+  s_a408aacd0cd067::t_950f1566a5f2d0 1-86
+node_modules/tinypool/dist/common-Qw-RoVFD.js
+  s_a408aacd0cd067::t_9241c18100188c 1-28
+node_modules/tinyexec/package.json
+  s_a408aacd0cd067::t_7f7026543360fb 1-66
+node_modules/vitest/dist/reporters.d.ts
+  s_a408aacd0cd067::t_97796403e6e0c3 1-25
+node_modules/@vitest/utils/error.d.ts
+  s_a408aacd0cd067::t_f5584170e97a4c 1
+node_modules/tinyglobby/package.json
+  s_a408aacd0cd067::t_1f4f75cb238860 1-70
+node_modules/vitest/dist/chunks/env.D4Lgay0q.js
+  s_a408aacd0cd067::t_c6ca3f5326f3ae 1-8
+node_modules/vite-node/dist/constants.mjs
+  s_a408aacd0cd067::t_b369b00f834524 1-32
+node_modules/@vitest/utils/dist/error.d.ts
+  s_a408aacd0cd067::t_aaab830f71512a 1-9
+node_modules/typescript/lib/lib.es2023.intl.d.ts
+  s_a408aacd0cd067::t_a7e06981cabb65 1-56
+node_modules/postcss/lib/previous-map.d.ts
+  s_a408aacd0cd067::t_b1216d9e155bc9 1-80
+node_modules/vitest/globals.d.ts
+  s_a408aacd0cd067::t_0a3a651f605391 1-20
+node_modules/loupe/lib/symbol.d.ts
+  s_a408aacd0cd067::t_8ac30ffaac1b88 1-2
+node_modules/check-error/index.js
+  s_a408aacd0cd067::t_72c977c0ae7547 1-136
+node_modules/source-map-js/lib/source-map-generator.js
+  s_a408aacd0cd067::t_a5ff5e3bf42626 1-444
+node_modules/expect-type/package.json
+  s_a408aacd0cd067::t_b7b066f96f654e 1-50
+node_modules/picomatch/LICENSE
+  s_a408aacd0cd067::t_65791f0176d50a 1-21
+node_modules/.bin/vite
+  s_a408aacd0cd067::t_c6227ebed1efc0 1-16
+node_modules/magic-string/dist/magic-string.cjs.js
+  s_a408aacd0cd067::t_93b695d62e5c6c 1-1594
+node_modules/@types/chai/register-should.d.ts
+  s_a408aacd0cd067::t_9821de46453fa4 1-7
+node_modules/@vitest/spy/README.md
+  s_a408aacd0cd067::t_c9021d74b8a1c2 1-3
+node_modules/typescript/lib/lib.es2024.object.d.ts
+  s_a408aacd0cd067::t_e44b9abf4c40cb 1-29
+node_modules/@deepseek-ai/cosmokit/package.json
+  s_a408aacd0cd067::t_bc13c165b69422 1-32
+node_modules/@vitest/mocker/dist/index.d.ts
+  s_a408aacd0cd067::t_f86cc26b939a4f 1-21
+node_modules/typescript/lib/lib.es2024.string.d.ts
+  s_a408aacd0cd067::t_61728fa919879f 1-29
+node_modules/vite/misc/false.js
+  s_a408aacd0cd067::t_7618196606e769 1
+node_modules/@deepseek-ai/dsh-timeout/package.json
+  s_a408aacd0cd067::t_9ae567b1376dd2 1-42
+node_modules/@deepseek-ai/dsh-agent/LICENSE
+  s_a408aacd0cd067::t_68b6cf32d6830b 1-21
+node_modules/@rollup/rollup-win32-x64-msvc/README.md
+  s_a408aacd0cd067::t_15efe19f944748 1-3
+node_modules/typescript/lib/ru/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_54fe7a7934e957 1-2122
+node_modules/tinyrainbow/dist/browser.js
+  s_a408aacd0cd067::t_289cc2e1497251 1-20
+node_modules/vitest/dist/chunks/index.B521nVV-.js
+  s_a408aacd0cd067::t_a7a4758d48cdb8 1-157
+node_modules/typescript/lib/lib.es2023.full.d.ts
+  s_a408aacd0cd067::t_e925c792721a10 1-24
+node_modules/vitest/dist/chunks/setup-common.Dd054P77.js
+  s_a408aacd0cd067::t_29a5dff8437810 1-60
+node_modules/@deepseek-ai/schemastery/README.md
+  s_a408aacd0cd067::t_71785e009c9464 1-389
+node_modules/magic-string/dist/magic-string.umd.js.map
+  s_a408aacd0cd067::t_d5f86511567ee6 1
+node_modules/chai/chai.js
+  s_a408aacd0cd067::t_85fee66997816a 1
+node_modules/picomatch/lib/scan.js
+  s_a408aacd0cd067::t_a2f73703e1c6fa 1-391
+node_modules/chai/lib/chai/utils/type-detect.js
+  s_a408aacd0cd067::t_407a89c42ebabb 1-20
+node_modules/vite/dist/node/chunks/build2.js
+  s_a408aacd0cd067::t_96af173c48635c 1-5538
+node_modules/typescript/lib/lib.es2017.object.d.ts
+  s_a408aacd0cd067::t_c34c25239337ec 1-49
+node_modules/pathe/dist/shared/pathe.M-eThtNZ.mjs
+  s_a408aacd0cd067::t_d269075af9ebf1 1-249
+node_modules/vitest/optional-types.d.ts
+  s_a408aacd0cd067::t_510fc4e750bebd 1-7
+node_modules/@vitest/snapshot/dist/index.js
+  s_a408aacd0cd067::t_adb6fcf2b71949 1-2305
+node_modules/typescript/lib/lib.es2019.symbol.d.ts
+  s_a408aacd0cd067::t_b7e8d31f28183c 1-24
+node_modules/@vitest/runner/types.d.ts
+  s_a408aacd0cd067::t_5f576daae31556 1
+node_modules/vitest/dist/chunks/reporters.d.BuRON0I0.d.ts
+  s_a408aacd0cd067::t_c74184f5dc2c93 1-3168
+node_modules/cac/index-compat.js
+  s_a408aacd0cd067::t_ab0b40256e4af1 1-11
+node_modules/vite/dist/client/client.mjs
+  s_a408aacd0cd067::t_514b2fa0d07e6e 1-1106
+node_modules/@standard-schema/spec/dist/index.d.ts
+  s_a408aacd0cd067::t_9986485e5eb285 1-119
+node_modules/@deepseek-ai/cordis/lib/types/index.d.ts
+  s_a408aacd0cd067::t_b316a6ff52a4ef 1-15
+node_modules/@jridgewell/sourcemap-codec/types/strings.d.cts.map
+  s_a408aacd0cd067::t_fe4657d0ee27d4 1
+node_modules/tinyspy/README.md
+  s_a408aacd0cd067::t_3aee5eda815961 1-11
+node_modules/vite-node/dist/types.cjs
+  s_a408aacd0cd067::t_4c516d185bf840 1-2
+node_modules/@types/estree/README.md
+  s_a408aacd0cd067::t_e2ab8bce5c72b4 1-15
+node_modules/typescript/lib/tsserverlibrary.d.ts
+  s_a408aacd0cd067::t_f97dfefb2714af 1-17
+node_modules/typescript/lib/lib.es2020.bigint.d.ts
+  s_a408aacd0cd067::t_8a6a9fa51e74b0 1-765
+node_modules/vitest/dist/chunks/vi.bdSIJ99Y.js
+  s_a408aacd0cd067::t_2f06c82ecec6f7 1-4015
+node_modules/tinyexec/README.md
+  s_a408aacd0cd067::t_537592adce2f8b 1-256
+node_modules/nanoid/url-alphabet/index.js
+  s_a408aacd0cd067::t_1e4b70fff281ae 1-4
+node_modules/assertion-error/README.md
+  s_a408aacd0cd067::t_cb478d8fcec99a 1-68
+node_modules/typescript/lib/lib.es2017.d.ts
+  s_a408aacd0cd067::t_c3f1836cd6ad19 1-26
+node_modules/chai/lib/chai/utils/getOwnEnumerableProperties.js
+  s_a408aacd0cd067::t_9b83b263315194 1-24
+node_modules/.bin/nanoid.ps1
+  s_a408aacd0cd067::t_9527c82d89ba4a 1-28
+node_modules/@deepseek-ai/dsh-session/lib/types/types.js
+  s_a408aacd0cd067::t_41cd2141b0a35a 1-33
+node_modules/siginfo/index.js
+  s_a408aacd0cd067::t_1a2aa8761edfe1 1-20
+node_modules/@jridgewell/sourcemap-codec/src/strings.ts
+  s_a408aacd0cd067::t_5bc57228d35470 1-65
+node_modules/vitest/utils.d.ts
+  s_a408aacd0cd067::t_7b577c06bb2a9e 1
+node_modules/vitest/dist/chunks/index.D3XRDfWc.js
+  s_a408aacd0cd067::t_9348e8bc0aee9d 1-213
+node_modules/picocolors/package.json
+  s_a408aacd0cd067::t_70a3b5b3208264 1-25
+node_modules/postcss/lib/symbols.js
+  s_a408aacd0cd067::t_53960f744f7dfc 1-5
+node_modules/expect-type/LICENSE
+  s_a408aacd0cd067::t_46184c4ae3e498 1-191
+node_modules/typescript/lib/pl/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_b6f84950dd8857 1-2122
+node_modules/postcss/lib/warning.d.ts
+  s_a408aacd0cd067::t_61c5c6a154c24b 1-146
+node_modules/@deepseek-ai/dsh-brand/lib/types/invariant.d.ts
+  s_a408aacd0cd067::t_5258bd91234b6d 1-16
+node_modules/typescript/lib/typingsInstaller.js
+  s_a408aacd0cd067::t_8449719de668e9 1-8
+node_modules/.bin/rollup
+  s_a408aacd0cd067::t_d6d07426d1ea20 1-16
+node_modules/vitest/dist/chunks/node.fjCdwEIl.js
+  s_a408aacd0cd067::t_9374f32e168b66 1-15
+node_modules/@vitest/mocker/dist/redirect.d.ts
+  s_a408aacd0cd067::t_8cf5cd72753b20 1-3
+node_modules/vite/dist/node/chunks/moduleRunnerTransport.d.ts
+  s_a408aacd0cd067::t_4b6f5335f81eb0 1-96
+node_modules/@deepseek-ai/schemastery/lib/types/index.d.ts.map
+  s_a408aacd0cd067::t_b53a14eec33698 1
+node_modules/loupe/lib/bigint.js
+  s_a408aacd0cd067::t_1201198650422c 1-7
+node_modules/@deepseek-ai/cosmokit/lib/types/index.d.ts.map
+  s_a408aacd0cd067::t_e4b12659afc212 1
+node_modules/chai/lib/chai/core/assertions.js
+  s_a408aacd0cd067::t_b86f30742df7ab 1-4156
+node_modules/@types/estree/flow.d.ts
+  s_a408aacd0cd067::t_99492eb81fa6b8 1-167
+node_modules/loupe/package.json
+  s_a408aacd0cd067::t_393fec871e023a 1-73
+node_modules/esbuild/bin/esbuild
+  s_a408aacd0cd067::t_eee826f005be6f 1-223
+node_modules/rollup/package.json
+  s_a408aacd0cd067::t_c06681cc62c57f 1-298
+node_modules/rollup/dist/shared/parseAst.js
+  s_a408aacd0cd067::t_020463c52b9b99 1-2361
+node_modules/source-map-js/source-map.js
+  s_a408aacd0cd067::t_8f2487cd237de4 1-8
+node_modules/typescript/lib/lib.dom.iterable.d.ts
+  s_a408aacd0cd067::t_5f396c4e394bd8 1-571
+node_modules/@deepseek-ai/cordis/lib/types/context.d.ts
+  s_a408aacd0cd067::t_9a91e29fb9655e 1-101
+node_modules/tinyrainbow/dist/index-8b61d5bc.d.ts
+  s_a408aacd0cd067::t_94679de09b687e 1-59
+node_modules/vitest/dist/browser.d.ts
+  s_a408aacd0cd067::t_91fb9996877818 1-34
+node_modules/@vitest/mocker/LICENSE
+  s_a408aacd0cd067::t_87251040617598 1-21
+node_modules/rollup/dist/shared/watch.js
+  s_a408aacd0cd067::t_4448ee82b96fb4 1-324
+node_modules/typescript/lib/lib.es2022.intl.d.ts
+  s_a408aacd0cd067::t_606ffc6b92f936 1-145
+node_modules/@deepseek-ai/cordis/lib/types/registry.d.ts
+  s_a408aacd0cd067::t_37fe57771ebf32 1-201
+node_modules/siginfo/test.js
+  s_a408aacd0cd067::t_f4d07e122fd693 1-16
+node_modules/chai/package.json
+  s_a408aacd0cd067::t_96f4a324d7fdd9 1-74
+node_modules/@deepseek-ai/dsh-typert-protocol/lib/types/types.d.ts
+  s_a408aacd0cd067::t_449102f6e27038 1-419
+node_modules/check-error/package.json
+  s_a408aacd0cd067::t_e7afec514f72fb 1-46
+node_modules/vite/client.d.ts
+  s_a408aacd0cd067::t_a505ce459deb5e 1-279
+node_modules/@deepseek-ai/dsh-system-prompt/README.i18n.yaml
+  s_a408aacd0cd067::t_ee706903b001a0 1-6
+node_modules/nanoid/non-secure/package.json
+  s_a408aacd0cd067::t_d7e50e7da8bd8a 1-6
+node_modules/.bin/cordis
+  s_a408aacd0cd067::t_66c6c001e5a7d7 1-16
+node_modules/loupe/lib/helpers.d.ts.map
+  s_a408aacd0cd067::t_dee610fb770260 1
+node_modules/@types/chai/package.json
+  s_a408aacd0cd067::t_a75932bbd2f9fb 1-75
+node_modules/postcss/lib/processor.js
+  s_a408aacd0cd067::t_68f96a9e1fdd0c 1-67
+node_modules/@deepseek-ai/dsh-system-prompt/lib/types/index.d.ts
+  s_a408aacd0cd067::t_4f11f900e62f47 1-231
+node_modules/@deepseek-ai/dsh-attachment/lib/types/index.js
+  s_a408aacd0cd067::t_01954e6a8fd25c 1-43
+node_modules/@deepseek-ai/cordis/bin.js
+  s_a408aacd0cd067::t_6dfe012f1722aa 1-16
+node_modules/chai/lib/chai/utils/getOwnEnumerablePropertySymbols.js
+  s_a408aacd0cd067::t_5680bb4ecfd14b 1-26
+node_modules/postcss/lib/css-syntax-error.d.ts
+  s_a408aacd0cd067::t_e069ee8a9ce16b 1-247
+node_modules/@deepseek-ai/dsh-agent/lib/index.js
+  s_a408aacd0cd067::t_5f8bd86a6bcb93 1-794
+node_modules/magic-string/dist/magic-string.cjs.d.ts
+  s_a408aacd0cd067::t_4e1b7f6f727a93 1-289
+node_modules/typescript/lib/lib.es2015.collection.d.ts
+  s_a408aacd0cd067::t_f54825d8483509 1-147
+node_modules/pathe/dist/utils.d.mts
+  s_a408aacd0cd067::t_d8d65ac256e5f4 1-32
+node_modules/@vitest/snapshot/manager.d.ts
+  s_a408aacd0cd067::t_291949762df6cf 1
+node_modules/tinyrainbow/package.json
+  s_a408aacd0cd067::t_d11842d00c8e11 1-37
+node_modules/chai/lib/chai/utils/getMessage.js
+  s_a408aacd0cd067::t_369be9538d54b5 1-52
+node_modules/cac/deno/utils.ts
+  s_a408aacd0cd067::t_49d52e1978edfc 1-145
+node_modules/@deepseek-ai/cordis/lib/types/logger.d.ts
+  s_a408aacd0cd067::t_718efeb00a477a 1-105
+node_modules/typescript/lib/lib.es2024.full.d.ts
+  s_a408aacd0cd067::t_a4d48711b24f3f 1-24
+node_modules/typescript/lib/tsserver.js
+  s_a408aacd0cd067::t_9713b4248ee4d5 1-8
+node_modules/loupe/lib/object.d.ts.map
+  s_a408aacd0cd067::t_35a03a94f987b1 1
+node_modules/chai/lib/chai/interface/should.js
+  s_a408aacd0cd067::t_0c7fb37d935bd7 1-227
+node_modules/vite-node/dist/index.cjs
+  s_a408aacd0cd067::t_84bc811ecf69cd 1-2
+node_modules/@deepseek-ai/dsh-session/lib/types/surface.js
+  s_a408aacd0cd067::t_385961987c11ef 1-377
+node_modules/vitest/dist/browser.js
+  s_a408aacd0cd067::t_6c2c31a1daabeb 1-8
+node_modules/tinybench/dist/index.js
+  s_a408aacd0cd067::t_48122b48eca056 1-560
+node_modules/deep-eql/index.js
+  s_a408aacd0cd067::t_a6037064710ed7 1-513
+node_modules/source-map-js/lib/source-map-consumer.js
+  s_a408aacd0cd067::t_f25a5a2f6d5ebe 1-1188
+node_modules/@deepseek-ai/dsh-llm/README.zh.md
+  s_a408aacd0cd067::t_cf86993aefc733 1-105
+node_modules/vite/types/importMeta.d.ts
+  s_a408aacd0cd067::t_4052d61004a946 1-30
+node_modules/@deepseek-ai/dsh-invariants/lib/types/invariant.d.ts
+  s_a408aacd0cd067::t_3aedbf40d2b34f 1-16
+node_modules/typescript/lib/lib.dom.asynciterable.d.ts
+  s_a408aacd0cd067::t_70fd830ba41a8f 1-41
+package-lock.json
+  s_a408aacd0cd067::t_a0c876c726d6c3 1-1807
+node_modules/postcss/lib/terminal-highlight.js
+  s_a408aacd0cd067::t_a5703534dcba29 1-70
+node_modules/vite-node/dist/chunk-hmr.cjs
+  s_a408aacd0cd067::t_ba6b7bb203713d 1-249
+node_modules/chai/lib/chai/utils/objDisplay.js
+  s_a408aacd0cd067::t_1780a94d22ee26 1-47
+node_modules/@rollup/rollup-win32-x64-msvc/package.json
+  s_a408aacd0cd067::t_fafc818e82b895 1-22
+node_modules/typescript/lib/_tsserver.js
+  s_a408aacd0cd067::t_395248e6351702 1-659
+node_modules/@deepseek-ai/dsh-llm/lib/types/attribution.d.ts
+  s_a408aacd0cd067::t_028791728b8c55 1-47
+node_modules/postcss/lib/css-syntax-error.js
+  s_a408aacd0cd067::t_ef3b175759cf0a 1-133
+node_modules/chai/lib/chai/assertion.js
+  s_a408aacd0cd067::t_c1029a3769c3e2 1-204
+node_modules/nanoid/index.browser.cjs
+  s_a408aacd0cd067::t_054f7c1597986b 1-45
+node_modules/@types/chai/README.md
+  s_a408aacd0cd067::t_5c81152fc4c949 1-15
+node_modules/postcss/lib/declaration.js
+  s_a408aacd0cd067::t_0ddeaa069550cf 1-24
+node_modules/typescript/lib/lib.es2018.intl.d.ts
+  s_a408aacd0cd067::t_9ae842b9fdd9ec 1-83
+node_modules/rollup/dist/shared/watch-cli.js
+  s_a408aacd0cd067::t_55dbd79a0937a7 1-542
+node_modules/typescript/lib/lib.es2018.full.d.ts
+  s_a408aacd0cd067::t_eef1aa72283b40 1-24
+node_modules/typescript/bin/tsserver
+  s_a408aacd0cd067::t_e16dd0bfdb3ba3 1-2
+node_modules/chai/lib/chai/utils/getProperties.js
+  s_a408aacd0cd067::t_e1388eb3c569d5 1-38
+node_modules/.bin/cordis.cmd
+  s_a408aacd0cd067::t_1cfb334e5840ac 1-17
+node_modules/@jridgewell/sourcemap-codec/README.md
+  s_a408aacd0cd067::t_25a335c25f358f 1-264
+node_modules/source-map-js/lib/array-set.js
+  s_a408aacd0cd067::t_32ecb8af047333 1-121
+node_modules/vite-node/dist/source-map.cjs
+  s_a408aacd0cd067::t_f3c8ebc9aa26e7 1-977
+node_modules/expect-type/dist/messages.js
+  s_a408aacd0cd067::t_adcc30977fc698 1-66
+node_modules/@vitest/expect/dist/index.d.ts
+  s_a408aacd0cd067::t_81d4f1974f4e2a 1-808
+node_modules/vitest/importMeta.d.ts
+  s_a408aacd0cd067::t_299ee157cac487 1-4
+node_modules/@deepseek-ai/dsh-llm/lib/types/types.d.ts
+  s_a408aacd0cd067::t_5edf7aa694787a 1-369
+node_modules/vitest/dist/chunks/creator.GK6I-cL4.js
+  s_a408aacd0cd067::t_08250481ea94d4 1-640
+node_modules/@deepseek-ai/dsh-attachment/package.json
+  s_a408aacd0cd067::t_6a53217e5c07bf 1-49
+node_modules/loupe/lib/array.js
+  s_a408aacd0cd067::t_09e2039684eac7 1-16
+node_modules/strip-literal/LICENSE
+  s_a408aacd0cd067::t_e1c8bde42ed1a2 1-21
+node_modules/loupe/lib/object.js
+  s_a408aacd0cd067::t_ffe42afbeb2b3b 1-22
+node_modules/estree-walker/types/async.d.ts
+  s_a408aacd0cd067::t_f524972e767d1d 1-36
+node_modules/estree-walker/types/walker.d.ts
+  s_a408aacd0cd067::t_cb52ae41d8204a 1-39
+node_modules/estree-walker/src/async.js
+  s_a408aacd0cd067::t_c3bf328095b73e 1-152
+node_modules/@deepseek-ai/dsh-system-prompt/LICENSE
+  s_a408aacd0cd067::t_e9d39324f6e2f5 1-21
+node_modules/@deepseek-ai/schemastery/lib/types/index.d.ts
+  s_a408aacd0cd067::t_55416e482ef247 1-200
+node_modules/postcss/lib/at-rule.d.ts
+  s_a408aacd0cd067::t_f66e0f9abcb284 1-139
+node_modules/typescript/lib/lib.esnext.decorators.d.ts
+  s_a408aacd0cd067::t_8a12acc934e945 1-28
+node_modules/postcss/lib/processor.d.ts
+  s_a408aacd0cd067::t_b2f558ee3a288d 1-114
+node_modules/nanoid/bin/nanoid.cjs
+  s_a408aacd0cd067::t_c6bf65f64ef649 1-55
+node_modules/vite-node/dist/utils.cjs
+  s_a408aacd0cd067::t_9dd2ba664e0121 1-216
+node_modules/typescript/lib/tsc.js
+  s_a408aacd0cd067::t_5c7f28ca15e1f6 1-8
+node_modules/vitest/dist/chunks/utils.CAioKnHs.js
+  s_a408aacd0cd067::t_2cf599f51c5434 1-61
+node_modules/.bin/tsc
+  s_a408aacd0cd067::t_fc390c08e93a21 1-16
+node_modules/vitest/dist/path.js
+  s_a408aacd0cd067::t_fcb41e59c7d4da 1-7
+node_modules/loupe/lib/types.d.ts.map
+  s_a408aacd0cd067::t_6581ab3dc4adba 1
+node_modules/.bin/vite-node.cmd
+  s_a408aacd0cd067::t_5ddf72e68a571b 1-17
+node_modules/typescript/lib/lib.es2019.full.d.ts
+  s_a408aacd0cd067::t_69ee909690ded9 1-24
+node_modules/@jridgewell/sourcemap-codec/src/sourcemap-codec.ts
+  s_a408aacd0cd067::t_9238b012b661f6 1-111
+node_modules/postcss/lib/fromJSON.js
+  s_a408aacd0cd067::t_0ceed11591ddd1 1-107
+node_modules/@deepseek-ai/dsh-attachment/lib/types/types.js
+  s_a408aacd0cd067::t_c8c863861ab0a6 1-3
+node_modules/@deepseek-ai/dsh-system-prompt/README.md
+  s_a408aacd0cd067::t_fe74a826659789 1-90
+node_modules/chai/register-expect.js
+  s_a408aacd0cd067::t_a72fa06e32a4df 1-3
+node_modules/typescript/lib/lib.esnext.intl.d.ts
+  s_a408aacd0cd067::t_292b6dd4d92143 1-21
+node_modules/vite/dist/node/module-runner.d.ts
+  s_a408aacd0cd067::t_48d87b8fa44b74 1-311
+node_modules/.bin/rollup.ps1
+  s_a408aacd0cd067::t_9a279d7de19588 1-28
+node_modules/@jridgewell/sourcemap-codec/types/vlq.d.mts.map
+  s_a408aacd0cd067::t_6a173165d42d79 1
+node_modules/vite/types/hot.d.ts
+  s_a408aacd0cd067::t_6200f5da35fe54 1-39
+node_modules/vitest/dist/snapshot.js
+  s_a408aacd0cd067::t_b835d6379f305d 1-4
+node_modules/vite/dist/node/index.d.ts
+  s_a408aacd0cd067::t_a8ecbc2bbd9c42 1-3717
+node_modules/loupe/lib/index.d.ts.map
+  s_a408aacd0cd067::t_fa119929603119 1
+node_modules/estree-walker/types/sync.d.ts
+  s_a408aacd0cd067::t_4666f94d2cd6ea 1-36
+node_modules/typescript/lib/_tsc.js
+  s_a408aacd0cd067::t_ec758d103acb7e 1-133818
+node_modules/@jridgewell/sourcemap-codec/types/scopes.d.cts.map
+  s_a408aacd0cd067::t_36e456b62affa4 1
+node_modules/@deepseek-ai/cordis/src/utils.ts
+  s_a408aacd0cd067::t_167ca19e047d6c 1-287
+node_modules/typescript/ThirdPartyNoticeText.txt
+  s_a408aacd0cd067::t_cb812a5db6f1e7 1-193
+node_modules/typescript/lib/lib.es2022.error.d.ts
+  s_a408aacd0cd067::t_bf8a45b09628a4 1-75
+node_modules/typescript/lib/lib.es2022.array.d.ts
+  s_a408aacd0cd067::t_44d28d646a653d 1-121
+node_modules/rollup/dist/shared/rollup.js
+  s_a408aacd0cd067::t_e40375f3a49277 1-24213
+node_modules/vite-node/dist/hmr.d.ts
+  s_a408aacd0cd067::t_48f2501104a7ef 1-58
+node_modules/chai/lib/chai/utils/overwriteProperty.js
+  s_a408aacd0cd067::t_96fa4c5f18b360 1-89
+node_modules/@deepseek-ai/dsh-session/README.i18n.yaml
+  s_a408aacd0cd067::t_8b7acc5ddec056 1-6
+node_modules/@deepseek-ai/dsh-agent/lib/types/inbox.d.ts
+  s_a408aacd0cd067::t_23c59dfbf88b54 1-92
+node_modules/source-map-js/lib/source-node.d.ts
+  s_a408aacd0cd067::t_eb9d67c739c6be 1
+node_modules/tinyexec/dist/main.d.cts
+  s_a408aacd0cd067::t_75be65e9afb309 1-70
+node_modules/postcss/lib/warning.js
+  s_a408aacd0cd067::t_bb48a94ee77a51 1-47
+node_modules/vitest/dist/chunks/global.d.MAmajcmJ.d.ts
+  s_a408aacd0cd067::t_d23ab71d10300b 1-136
+node_modules/@deepseek-ai/dsh-session/README.zh.md
+  s_a408aacd0cd067::t_0a9d8075b8c000 1-144
+node_modules/@deepseek-ai/dsh-attachment/lib/types/admission.js
+  s_a408aacd0cd067::t_2d8ac78725f9f5 1-33
+node_modules/vitest/dist/cli.js
+  s_a408aacd0cd067::t_3c94de7bc8c464 1-27
+node_modules/@esbuild/win32-x64/package.json
+  s_a408aacd0cd067::t_84304a48e1aac1 1-20
+node_modules/vitest/workers.d.ts
+  s_a408aacd0cd067::t_c47e85b1bb2295 1
+node_modules/vite-node/dist/chunk-browser.cjs
+  s_a408aacd0cd067::t_f38e1356c4fa2c 1-83
+node_modules/vitest/dist/environments.js
+  s_a408aacd0cd067::t_2fe5aecfe657b8 1-2
+node_modules/postcss/lib/comment.js
+  s_a408aacd0cd067::t_b7dcd374fb517d 1-13
+node_modules/@deepseek-ai/cosmokit/lib/types/string.d.ts.map
+  s_a408aacd0cd067::t_8f7c82fcfa73cb 1
+node_modules/expect-type/SECURITY.md
+  s_a408aacd0cd067::t_72e1ecd6416954 1-14
+node_modules/@vitest/mocker/dist/browser.d.ts
+  s_a408aacd0cd067::t_ad19c9132351ca 1-53
+node_modules/vitest/dist/chunks/git.BVQ8w_Sw.js
+  s_a408aacd0cd067::t_a3fff9c8267606 1-72
+node_modules/js-tokens/package.json
+  s_a408aacd0cd067::t_4d7e100f1a6895 1-22
+node_modules/why-is-node-running/.github/FUNDING.yml
+  s_a408aacd0cd067::t_4d9c074353fa18 1
+node_modules/@deepseek-ai/cordis/lib/types/fiber.d.ts
+  s_a408aacd0cd067::t_54ce6b8556ab65 1-202
+node_modules/es-module-lexer/types/lexer.d.ts
+  s_a408aacd0cd067::t_fc3464faf58415 1-195
+node_modules/nanoid/async/index.js
+  s_a408aacd0cd067::t_0ccf8dd5505c0f 1-47
+node_modules/nanoid/non-secure/index.cjs
+  s_a408aacd0cd067::t_8967c388c5361e 1-24
+node_modules/pathe/package.json
+  s_a408aacd0cd067::t_94634627a54f09 1-61
+node_modules/loupe/lib/arguments.d.ts.map
+  s_a408aacd0cd067::t_6688796617808f 1
+node_modules/expect-type/dist/overloads.js
+  s_a408aacd0cd067::t_8d265d257d29c1 1-2
+node_modules/es-module-lexer/dist/lexer.asm.js
+  s_a408aacd0cd067::t_17ff1f4bf28e93 1-2
+node_modules/@vitest/mocker/dist/chunk-registry.js
+  s_a408aacd0cd067::t_d15703de8f06cd 1-182
+node_modules/typescript/lib/lib.webworker.asynciterable.d.ts
+  s_a408aacd0cd067::t_d3a4bd9579dc08 1-41
+node_modules/@deepseek-ai/dsh-agent/lib/types/model-selection.d.ts
+  s_a408aacd0cd067::t_cbd99b192f72bb 1-36
+node_modules/loupe/lib/error.d.ts
+  s_a408aacd0cd067::t_cc9d68979c8a30 1-3
+node_modules/loupe/lib/typedarray.d.ts.map
+  s_a408aacd0cd067::t_ad4d66735a5ad0 1
+node_modules/typescript/lib/lib.es2024.collection.d.ts
+  s_a408aacd0cd067::t_e9801005b394bc 1-29
+node_modules/typescript/lib/lib.es2020.full.d.ts
+  s_a408aacd0cd067::t_6e54a2efd08ba5 1-24
+node_modules/@deepseek-ai/cordis/lib/types/events.d.ts
+  s_a408aacd0cd067::t_b9da0dd53786f2 1-240
+node_modules/tinypool/dist/entry/utils.js
+  s_a408aacd0cd067::t_fd498e9933f61e 1-3
+node_modules/typescript/lib/lib.es2019.intl.d.ts
+  s_a408aacd0cd067::t_8e1d9cae747c75 1-23
+node_modules/check-error/README.md
+  s_a408aacd0cd067::t_fcf2898fc60ad4 1-144
+node_modules/cac/deno/Option.ts
+  s_a408aacd0cd067::t_0de4b3fd8e72f5 1-52
+node_modules/expect-type/dist/utils.d.ts
+  s_a408aacd0cd067::t_7230ea76b6b0cc 1-210
+node_modules/@vitest/snapshot/dist/environment.d-DHdQ1Csl.d.ts
+  s_a408aacd0cd067::t_80cac4561b99d0 1-22
+node_modules/loupe/lib/types.d.ts
+  s_a408aacd0cd067::t_31acc53457a80a 1-15
+node_modules/@vitest/mocker/dist/chunk-mocker.js
+  s_a408aacd0cd067::t_777b5939d94da4 1-1602
+node_modules/vitest/dist/chunks/suite.d.FvehnV49.d.ts
+  s_a408aacd0cd067::t_4e9300b0f2853e 1-10
+node_modules/typescript/lib/lib.es2018.asynciterable.d.ts
+  s_a408aacd0cd067::t_7626bcb2ca5ddf 1-53
+node_modules/@deepseek-ai/cosmokit/lib/types/array.d.ts.map
+  s_a408aacd0cd067::t_2491e7a6d2037e 1
+node_modules/source-map-js/lib/mapping-list.js
+  s_a408aacd0cd067::t_febcab71aa81df 1-79
+node_modules/@deepseek-ai/dsh-attachment/lib/types/types.d.ts
+  s_a408aacd0cd067::t_c91a01c3a6f76b 1-53
+node_modules/@vitest/spy/package.json
+  s_a408aacd0cd067::t_fadbccf67cb4b5 1-38
+node_modules/@types/deep-eql/README.md
+  s_a408aacd0cd067::t_88425169fc6322 1-57
+node_modules/postcss/README.md
+  s_a408aacd0cd067::t_a4df2881d22215 1-27
+node_modules/.bin/rollup.cmd
+  s_a408aacd0cd067::t_13c1558ec01f5d 1-17
+node_modules/@deepseek-ai/cordis/lib/types/utils.d.ts
+  s_a408aacd0cd067::t_c50e48aeb7b586 1-62
+node_modules/chai/lib/chai/interface/expect.js
+  s_a408aacd0cd067::t_f8b6d089a04b7e 1-59
+node_modules/@deepseek-ai/dsh-system-prompt/lib/index.js
+  s_a408aacd0cd067::t_b0af6b8a1025f9 1-293
+node_modules/vitest/dist/chunks/console.CtFJOzRO.js
+  s_a408aacd0cd067::t_677f64b4de2f1f 1-153
+node_modules/why-is-node-running/README.md
+  s_a408aacd0cd067::t_0644755fa84b8a 1-104
+node_modules/.bin/why-is-node-running
+  s_a408aacd0cd067::t_712474d5ef1fd3 1-16
+node_modules/chai/register-assert.js
+  s_a408aacd0cd067::t_915542684a9aa7 1-3
+node_modules/@jridgewell/sourcemap-codec/types/vlq.d.cts
+  s_a408aacd0cd067::t_53416939eabbdc 1-7
+node_modules/.bin/cordis.ps1
+  s_a408aacd0cd067::t_43752b6b7f471a 1-28
+node_modules/tinybench/README.md
+  s_a408aacd0cd067::t_777d87211356cd 1-422
+node_modules/tinyglobby/dist/index.mjs
+  s_a408aacd0cd067::t_c18844a1ce12c7 1-307
+node_modules/.bin/esbuild.cmd
+  s_a408aacd0cd067::t_3a7a6e91e184a8 1-17
+node_modules/cac/LICENSE
+  s_a408aacd0cd067::t_909d568a2ca9e0 1-21
+node_modules/@vitest/pretty-format/dist/index.js
+  s_a408aacd0cd067::t_8e35525feab1b0 1-1387
+node_modules/assertion-error/index.js
+  s_a408aacd0cd067::t_6df63b73032b58 1-60
+node_modules/strip-literal/dist/index.d.ts
+  s_a408aacd0cd067::t_5ef59484823488 1-30
+node_modules/@standard-schema/spec/dist/index.cjs
+  s_a408aacd0cd067::t_72607cfa76a22a 1-18
+node_modules/cac/deno/CAC.ts
+  s_a408aacd0cd067::t_c54b445af69047 1-331
+node_modules/tinyspy/dist/index.d.ts
+  s_a408aacd0cd067::t_49f427f4d4ee1e 1-84
+node_modules/@vitest/pretty-format/dist/index.d.ts
+  s_a408aacd0cd067::t_f448b7de1d6cdb 1-119
+node_modules/@deepseek-ai/schemastery/src/index.ts
+  s_a408aacd0cd067::t_873cdf625043a6 1-902
+node_modules/vitest/dist/runners.js
+  s_a408aacd0cd067::t_ba323719f99495 1-235
+node_modules/typescript/lib/lib.es2015.iterable.d.ts
+  s_a408aacd0cd067::t_624c92fde4442f 1-605
+node_modules/vitest/config.d.ts
+  s_a408aacd0cd067::t_0d498c66ebaba6 1-3
+node_modules/magic-string/dist/magic-string.cjs.js.map
+  s_a408aacd0cd067::t_115671afa9838d 1
+node_modules/vite-node/README.md
+  s_a408aacd0cd067::t_184d77bbdabe4c 1-191
+node_modules/vite-node/dist/chunk-browser.mjs
+  s_a408aacd0cd067::t_4ef07cc58eb361 1-81
+node_modules/tinypool/LICENSE
+  s_a408aacd0cd067::t_181caa69708300 1-24
+node_modules/source-map-js/lib/base64.js
+  s_a408aacd0cd067::t_8a1d056351da43 1-67
+node_modules/typescript/lib/lib.es5.d.ts
+  s_a408aacd0cd067::t_28f21265eb30ef 1-4601
+node_modules/stackback/.npmignore
+  s_a408aacd0cd067::t_f20698ff906b7a 1
+node_modules/@deepseek-ai/cordis/lib/types/registry.d.ts.map
+  s_a408aacd0cd067::t_07155980ec1cad 1
+node_modules/chai/index.js
+  s_a408aacd0cd067::t_dffd5811eb4542 1-4381
+node_modules/.bin/esbuild.ps1
+  s_a408aacd0cd067::t_62699c3a3365ef 1-28
+node_modules/typescript/lib/lib.es2022.d.ts
+  s_a408aacd0cd067::t_39608a5060f327 1-25
+node_modules/.bin/tsc.cmd
+  s_a408aacd0cd067::t_cfb507670f65f3 1-17
+node_modules/@deepseek-ai/dsh-timeout/lib/types/invariant.d.ts
+  s_a408aacd0cd067::t_fe434d7b848bea 1-16
+node_modules/@vitest/utils/dist/chunk-_commonjsHelpers.js
+  s_a408aacd0cd067::t_43c2d89e15c89a 1-158
+node_modules/tinyrainbow/dist/browser.d.ts
+  s_a408aacd0cd067::t_ab4099eb04212e 1-8
+node_modules/loupe/lib/regexp.d.ts.map
+  s_a408aacd0cd067::t_b1654be9344573 1
+node_modules/vitest/dist/chunks/benchmark.CYdenmiT.js
+  s_a408aacd0cd067::t_cbd8981e9cb69c 1-37
+node_modules/vitest/dist/chunks/vm.BThCzidc.js
+  s_a408aacd0cd067::t_79a52ce3de24f4 1-756
+node_modules/vite-node/dist/cli.mjs
+  s_a408aacd0cd067::t_7733d7f48b70b7 1-133
+node_modules/tinyrainbow/LICENCE
+  s_a408aacd0cd067::t_4066882c0fd1e5 1-21
+node_modules/@deepseek-ai/cordis/src/context.ts
+  s_a408aacd0cd067::t_00d3d90dc11d32 1-146
+node_modules/@deepseek-ai/dsh-scope/lib/types/index.d.ts
+  s_a408aacd0cd067::t_ea9f2f16516b91 1-110
+node_modules/@jridgewell/sourcemap-codec/types/sourcemap-codec.d.cts.map
+  s_a408aacd0cd067::t_713fb322cb5021 1
+node_modules/typescript/lib/lib.dom.d.ts
+  s_a408aacd0cd067::t_39a7d90cb7f25f 1-39429
+node_modules/typescript/lib/lib.esnext.error.d.ts
+  s_a408aacd0cd067::t_c82cddafbbbb62 1-24
+node_modules/postcss/lib/lazy-result.d.ts
+  s_a408aacd0cd067::t_58eef04c583b03 1-189
+node_modules/@deepseek-ai/dsh-llm/lib/types/attribution.js
+  s_a408aacd0cd067::t_cf18be2edfa268 1-46
+node_modules/picomatch/README.md
+  s_a408aacd0cd067::t_e43ead608065be 1-743
+node_modules/typescript/lib/lib.es2017.full.d.ts
+  s_a408aacd0cd067::t_ea221482510730 1-23
+node_modules/typescript/lib/lib.esnext.collection.d.ts
+  s_a408aacd0cd067::t_3aa57890c2bc39 1-96
+node_modules/vitest/index.d.cts
+  s_a408aacd0cd067::t_76edf510334661 1
+node_modules/vite-node/dist/server.d.ts
+  s_a408aacd0cd067::t_34a0e92ac3e12f 1-58
+node_modules/check-error/LICENSE
+  s_a408aacd0cd067::t_b80b9d9cc0a83a 1-19
+node_modules/source-map-js/lib/source-node.js
+  s_a408aacd0cd067::t_e0751e46ad87a1 1-413
+node_modules/@deepseek-ai/dsh-brand/lib/index.js
+  s_a408aacd0cd067::t_b68e0eb2e64b22 1
+node_modules/@deepseek-ai/dsh-session/lib/types/repair.js
+  s_a408aacd0cd067::t_ff4d710d5c8259 1-126
+node_modules/@vitest/runner/LICENSE
+  s_a408aacd0cd067::t_f000707ff816d3 1-21
+node_modules/chai/lib/chai/utils/overwriteChainableMethod.js
+  s_a408aacd0cd067::t_d5a9b7281a3dc3 1-69
+node_modules/@deepseek-ai/cosmokit/README.md
+  s_a408aacd0cd067::t_6b8ee156d3bb01 1-24
+node_modules/tinyglobby/LICENSE
+  s_a408aacd0cd067::t_49a8470c2f3a54 1-21
+node_modules/tinypool/package.json
+  s_a408aacd0cd067::t_abd50dfc1de97a 1-42
+node_modules/chai/lib/chai/utils/index.js
+  s_a408aacd0cd067::t_591e1c969fee1e 1-118
+node_modules/picocolors/picocolors.d.ts
+  s_a408aacd0cd067::t_8df00ab1789bef 1-5
+node_modules/typescript/lib/lib.esnext.array.d.ts
+  s_a408aacd0cd067::t_526260c98af71b 1-35
+node_modules/stackback/index.js
+  s_a408aacd0cd067::t_6a276f8789808e 1-46
+node_modules/.bin/vitest.ps1
+  s_a408aacd0cd067::t_2de0bd0b57abb3 1-28
+node_modules/vite/dist/node/chunks/config2.js
+  s_a408aacd0cd067::t_77baee30ecf9fd 1-4
+node_modules/@vitest/mocker/dist/registry.d-D765pazg.d.ts
+  s_a408aacd0cd067::t_7e28a5c165658b 1-87
+node_modules/typescript/lib/lib.es2017.arraybuffer.d.ts
+  s_a408aacd0cd067::t_a4e5092aa4b92d 1-21
+node_modules/@vitest/mocker/package.json
+  s_a408aacd0cd067::t_c3c86c1894e3ec 1-82
+node_modules/typescript/lib/lib.es2018.regexp.d.ts
+  s_a408aacd0cd067::t_2996af5c6af91a 1-37
+node_modules/typescript/lib/lib.es2015.proxy.d.ts
+  s_a408aacd0cd067::t_d98312ea1832f0 1-128
+node_modules/postcss/package.json
+  s_a408aacd0cd067::t_e02c13ce8b584c 1-88
+node_modules/.bin/nanoid.cmd
+  s_a408aacd0cd067::t_17cbb17782a232 1-17
+node_modules/@deepseek-ai/cosmokit/src/misc.ts
+  s_a408aacd0cd067::t_580472fbf54239 1-78
+node_modules/@deepseek-ai/dsh-agent/README.i18n.yaml
+  s_a408aacd0cd067::t_a21ebee346a3fb 1-6
+node_modules/typescript/lib/lib.es2020.date.d.ts
+  s_a408aacd0cd067::t_ad3bcdfc087761 1-42
+node_modules/typescript/lib/lib.es2017.date.d.ts
+  s_a408aacd0cd067::t_fac322365ac47d 1-31
+node_modules/@deepseek-ai/dsh-llm/lib/types/invariant.js
+  s_a408aacd0cd067::t_3432f494afb1e5 1-100
+node_modules/vite/dist/node/chunks/lib.js
+  s_a408aacd0cd067::t_92309ad9495453 1-377
+node_modules/vitest/dist/coverage.d.ts
+  s_a408aacd0cd067::t_1a0747e35d2f2e 1-108
+node_modules/vite-node/dist/constants.d.ts
+  s_a408aacd0cd067::t_1b61aeb247483e 1-5
+node_modules/@vitest/runner/dist/types.d.ts
+  s_a408aacd0cd067::t_e5176f3bf8b2d1 1-163
+node_modules/.bin/nanoid
+  s_a408aacd0cd067::t_f3a27b48320f4b 1-16
+node_modules/vite/package.json
+  s_a408aacd0cd067::t_050e45c7e155c0 1-199
+node_modules/@deepseek-ai/dsh-agent/lib/types/types.js
+  s_a408aacd0cd067::t_6c2a83dcceed68 1-7
+node_modules/@deepseek-ai/dsh-scope/lib/index.js
+  s_a408aacd0cd067::t_2bf02c018df907 1-357
+node_modules/@deepseek-ai/cordis/lib/types/events.d.ts.map
+  s_a408aacd0cd067::t_b7e190496e77d0 1
+node_modules/typescript/lib/lib.es2016.intl.d.ts
+  s_a408aacd0cd067::t_bb35b7962b2549 1-31
+node_modules/@deepseek-ai/dsh-attachment/lib/types/brand.js
+  s_a408aacd0cd067::t_4f14fa8967ce4d 1-10
+node_modules/@deepseek-ai/dsh-session/lib/types/invariant.d.ts
+  s_a408aacd0cd067::t_6d4bf8e0940343 1-18
+node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.mjs.map
+  s_a408aacd0cd067::t_e101870e15dbba 1-6
+node_modules/vitest/suppress-warnings.cjs
+  s_a408aacd0cd067::t_090cfd55734a8e 1-21
+node_modules/@deepseek-ai/dsh-scope/README.i18n.yaml
+  s_a408aacd0cd067::t_52b65dacac55cb 1-6
+node_modules/@deepseek-ai/cosmokit/src/index.ts
+  s_a408aacd0cd067::t_a3abb18cfe5848 1-10
+node_modules/typescript/lib/lib.es2024.regexp.d.ts
+  s_a408aacd0cd067::t_cda2e9afe5ded0 1-25
+node_modules/js-tokens/index.d.ts
+  s_a408aacd0cd067::t_c828be64d329f1 1-37
+node_modules/@deepseek-ai/dsh-agent/lib/types/consumed-work.js
+  s_a408aacd0cd067::t_d8d7405391df33 1-92
+node_modules/@types/deep-eql/LICENSE
+  s_a408aacd0cd067::t_2ee4884867cf12 1-21
+node_modules/vitest/node.d.ts
+  s_a408aacd0cd067::t_00a170698b9f42 1
+node_modules/loupe/lib/error.d.ts.map
+  s_a408aacd0cd067::t_fc9a118c61e582 1
+node_modules/typescript/lib/fr/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_588870cf47030b 1-2122
+node_modules/vitest/execute.d.ts
+  s_a408aacd0cd067::t_9feba16a79f7be 1
+node_modules/fdir/dist/index.cjs
+  s_a408aacd0cd067::t_35af0f8c83da9d 1-588
+node_modules/vite-node/LICENSE
+  s_a408aacd0cd067::t_d321a978f3e849 1-21
+node_modules/@deepseek-ai/dsh-typert-protocol/lib/types/invariant.d.ts
+  s_a408aacd0cd067::t_b3d5bab94d01f3 1-16
+node_modules/expect-type/dist/branding.d.ts
+  s_a408aacd0cd067::t_2bd887a567e782 1-141
+node_modules/typescript/lib/lib.es2021.promise.d.ts
+  s_a408aacd0cd067::t_44e7cff501fd9f 1-48
+node_modules/typescript/lib/lib.es2020.string.d.ts
+  s_a408aacd0cd067::t_1e3cf356502d87 1-44
+node_modules/vite/dist/node/chunks/dist.js
+  s_a408aacd0cd067::t_0776b1ca16cd60 1-6758
+node_modules/vitest/import-meta.d.ts
+  s_a408aacd0cd067::t_e0a9489a3e54a1 1-5
+node_modules/postcss/lib/parse.js
+  s_a408aacd0cd067::t_681999e8bc2bd2 1-42
+node_modules/@vitest/pretty-format/package.json
+  s_a408aacd0cd067::t_c14db19324ee81 1-44
+node_modules/typescript/lib/lib.esnext.d.ts
+  s_a408aacd0cd067::t_e415e259099f79 1-29
+node_modules/loupe/lib/number.js
+  s_a408aacd0cd067::t_5b7a585e82385a 1-17
+node_modules/@vitest/utils/dist/index.d.ts
+  s_a408aacd0cd067::t_14e053d7b42d23 1-57
+node_modules/typescript/LICENSE.txt
+  s_a408aacd0cd067::t_656f6b924fb618 1-55
+node_modules/@deepseek-ai/cordis/README.md
+  s_a408aacd0cd067::t_17b40f7e121f73 1-101
+node_modules/@deepseek-ai/dsh-timeout/README.md
+  s_a408aacd0cd067::t_77a05aef848940 1-70
+node_modules/vite-node/package.json
+  s_a408aacd0cd067::t_ea3f1645e47553 1-96
+node_modules/magic-string/dist/magic-string.es.mjs.map
+  s_a408aacd0cd067::t_c126a6eec007b4 1
+node_modules/typescript/lib/lib.scripthost.d.ts
+  s_a408aacd0cd067::t_1572609b397931 1-322
+node_modules/tinyexec/LICENSE
+  s_a408aacd0cd067::t_42e69daec7225e 1-21
+node_modules/typescript/lib/lib.es2019.string.d.ts
+  s_a408aacd0cd067::t_d9a7a785af5767 1-37
+node_modules/loupe/lib/regexp.d.ts
+  s_a408aacd0cd067::t_bbcaf0eb829343 1-3
+node_modules/cac/dist/index.js
+  s_a408aacd0cd067::t_38d35836031845 1-623
+node_modules/@deepseek-ai/dsh-llm/lib/index.js
+  s_a408aacd0cd067::t_042f60af97528d 1-1526
+node_modules/tinyrainbow/dist/node.d.ts
+  s_a408aacd0cd067::t_56c40f05447baf 1-8
+node_modules/postcss/lib/node.d.ts
+  s_a408aacd0cd067::t_c11adc791b06f1 1-555
+node_modules/.bin/esbuild
+  s_a408aacd0cd067::t_4ee4aad516182c 1-16
+node_modules/@standard-schema/spec/LICENSE
+  s_a408aacd0cd067::t_ceac138d9b2e4f 1-21
+node_modules/@jridgewell/sourcemap-codec/dist/sourcemap-codec.mjs
+  s_a408aacd0cd067::t_9196f5a3a695bb 1-423
+node_modules/pathe/dist/utils.d.ts
+  s_a408aacd0cd067::t_61473e0a4a48fd 1-32
+node_modules/typescript/lib/es/diagnosticMessages.generated.json
+  s_a408aacd0cd067::t_1ff044a7e0dfa7 1-2122
+node_modules/chai/lib/chai/utils/isProxyEnabled.js
+  s_a408aacd0cd067::t_cea36565f0645b 1-26
+node_modules/@deepseek-ai/dsh-agent/package.json
+  s_a408aacd0cd067::t_28345dd24bdee9 1-58
+node_modules/.bin/vite-node
+  s_a408aacd0cd067::t_244abdd4296a5f 1-16
+node_modules/typescript/lib/lib.es2015.generator.d.ts
+  s_a408aacd0cd067::t_0b55576a385350 1-77
+node_modules/postcss/lib/document.js
+  s_a408aacd0cd067::t_10a5fa404065f6 1-33
+node_modules/loupe/lib/class.d.ts
+  s_a408aacd0cd067::t_e6bbfd33c23ab3 1-5
+node_modules/vitest/dist/chunks/constants.DnKduX2e.js
+  s_a408aacd0cd067::t_fd9a5fac926012 1-44
+node_modules/@types/chai/LICENSE
+  s_a408aacd0cd067::t_63102c3bdcb24b 1-21
+node_modules/rollup/dist/getLogFilter.js
+  s_a408aacd0cd067::t_57fc3962add219 1-70
+node_modules/tinyrainbow/README.md
+  s_a408aacd0cd067::t_9653e4ffcc2179 1-28
+node_modules/vite-node/dist/hmr.cjs
+  s_a408aacd0cd067::t_7baa93c5eb0419 1-21
+node_modules/@deepseek-ai/dsh-timeout/README.zh.md
+  s_a408aacd0cd067::t_cb276ed6da6374 1-70
+node_modules/vitest/dist/chunks/index.X0nbfr6-.js
+  s_a408aacd0cd067::t_97c23f72a8c32e 1-6584
+node_modules/@deepseek-ai/cosmokit/LICENSE
+  s_a408aacd0cd067::t_d840568c6d0097 1-21
+node_modules/@deepseek-ai/dsh-llm/lib/types/invariant.d.ts
+  s_a408aacd0cd067::t_ed3b85daea1501 1-13
+node_modules/vite/dist/node/chunks/postcss-import.js
+  s_a408aacd0cd067::t_85cda752a7b00c 1-479
+node_modules/tinypool/dist/entry/process.d.ts
+  s_a408aacd0cd067::t_74cc976121d07c 1
+node_modules/@deepseek-ai/cosmokit/lib/types/string.d.ts
+  s_a408aacd0cd067::t_d89198e8b03acb 1-89
+node_modules/vitest/browser.d.ts
+  s_a408aacd0cd067::t_ed5e8064722a18 1
+node_modules/vitest/dist/chunks/worker.d.uzWsCv9X.d.ts
+  s_a408aacd0cd067::t_27210f499ef8a9 1-8
+node_modules/@jridgewell/sourcemap-codec/types/sourcemap-codec.d.mts
+  s_a408aacd0cd067::t_08797cdd59ac30 1-9
+node_modules/vite/dist/node/chunks/server.js
+  s_a408aacd0cd067::t_2a3b1031834f5c 1-4
+node_modules/@deepseek-ai/dsh-invariants/lib/types/index.d.ts
+  s_a408aacd0cd067::t_42ddc1a8627b03 1-83
+node_modules/tinybench/dist/index.d.ts
+  s_a408aacd0cd067::t_bcec7704d69b8e 1-319
+node_modules/loupe/lib/symbol.d.ts.map
+  s_a408aacd0cd067::t_ac490249507cb1 1
+node_modules/typescript/lib/_typingsInstaller.js
+  s_a408aacd0cd067::t_30a179320ad1a6 1-222
+node_modules/typescript/package.json
+  s_a408aacd0cd067::t_310075b5cfa39a 1-120
+node_modules/@deepseek-ai/dsh-brand/README.md
+  s_a408aacd0cd067::t_43ea45b0a5dd9b 1-28
+node_modules/loupe/lib/object.d.ts
+  s_a408aacd0cd067::t_5aae7d2007dd0e 1-3
+node_modules/@deepseek-ai/dsh-brand/lib/types/index.d.ts
+  s_a408aacd0cd067::t_ff5d3387051db7 1-29
+node_modules/esbuild/install.js
+  s_a408aacd0cd067::t_44cc9d8f163865 1-300
+node_modules/strip-literal/dist/index.d.cts
+  s_a408aacd0cd067::t_e1c49dd4693d8e 1-30
+node_modules/debug/src/common.js
+  s_a408aacd0cd067::t_cba8626db3615e 1-292
+node_modules/picocolors/README.md
+  s_a408aacd0cd067::t_d48fa62cd04cac 1-21
+node_modules/typescript/lib/lib.es2021.full.d.ts
+  s_a408aacd0cd067::t_39193cc7a54088 1-24
+node_modules/vitest/dist/worker.js
+  s_a408aacd0cd067::t_1638803b2d2b89 1-124
+node_modules/why-is-node-running/include.js
+  s_a408aacd0cd067::t_eb54f0aa46afcc 1-3
+node_modules/vite/types/importGlob.d.ts
+  s_a408aacd0cd067::t_e50b043e3a2249 1-89
+node_modules/@vitest/mocker/dist/index.js
+  s_a408aacd0cd067::t_c3d701f46746b6 1-174
+node_modules/postcss/lib/container.js
+  s_a408aacd0cd067::t_6b7f304c83cab8 1-494
+node_modules/source-map-js/lib/source-map-generator.d.ts
+  s_a408aacd0cd067::t_ba9737b68bb41d 1
+node_modules/tinypool/dist/index.d.ts
+  s_a408aacd0cd067::t_c902c5bfdaa554 1-195
+node_modules/vite/types/hmrPayload.d.ts
+  s_a408aacd0cd067::t_8b6664e5a66e5e 1-74
+node_modules/loupe/lib/arguments.d.ts
+  s_a408aacd0cd067::t_36ed6829ba7529 1-3
+node_modules/.bin/why-is-node-running.cmd
+  s_a408aacd0cd067::t_5caccb34845cf7 1-17
+node_modules/tinyexec/dist/main.d.ts
+  s_a408aacd0cd067::t_4a9592ec5b65ce 1-70
+node_modules/@deepseek-ai/dsh-invariants/package.json
+  s_a408aacd0cd067::t_ef3cc39bf375a7 1-43
+node_modules/stackback/.travis.yml
+  s_a408aacd0cd067::t_b9c68ad527395c 1-4
+node_modules/@deepseek-ai/dsh-llm/lib/types/types.js
+  s_a408aacd0cd067::t_7b119bd1f9551b 1-7
+node_modules/nanoid/LICENSE
+  s_a408aacd0cd067::t_f8fe6706cdc81e 1-20
+node_modules/@deepseek-ai/dsh-llm/lib/types/retry-policy.js
+  s_a408aacd0cd067::t_e2444c7de06978 1-127
+node_modules/tinypool/dist/entry/worker.d.ts
+  s_a408aacd0cd067::t_1581795b08c942 1
+node_modules/postcss/lib/fromJSON.d.ts
+  s_a408aacd0cd067::t_12c04e85e658cc 1-9
+node_modules/vite/bin/openChrome.js
+  s_a408aacd0cd067::t_e95081732ded7d 1-68
+node_modules/@deepseek-ai/dsh-system-prompt/lib/types/invariant.d.ts
+  s_a408aacd0cd067::t_6ea6a9b18150d9 1-13
+node_modules/chai/lib/chai/interface/assert.js
+  s_a408aacd0cd067::t_a46ee36b482177 1-3228
+node_modules/std-env/README.md
+  s_a408aacd0cd067::t_83099efc04cbbc 1-118
+node_modules/stackback/test.js
+  s_a408aacd0cd067::t_2932047f2550c6 1-24
+node_modules/loupe/README.md
+  s_a408aacd0cd067::t_b55d143e3a9eec 1-63
+node_modules/ms/package.json
+  s_a408aacd0cd067::t_b409b63fb1d46c 1-38
+node_modules/postcss/lib/document.d.ts
+  s_a408aacd0cd067::t_1bfc4638b050c4 1-68
+node_modules/vitest/dist/chunks/coverage.DVF1vEu8.js
+  s_a408aacd0cd067::t_712d0c9a336319 1-25
+node_modules/rollup/dist/shared/loadConfigFile.js
+  s_a408aacd0cd067::t_2658d3afd5f9c1 1-572
+node_modules/stackback/package.json
+  s_a408aacd0cd067::t_79774844cb1014 1-23
+node_modules/loupe/lib/index.js
+  s_a408aacd0cd067::t_74bf0492714ea0 1-152
+node_modules/tinyexec/dist/main.js
+  s_a408aacd0cd067::t_9ce112f8bc4961 1-578
+node_modules/@types/deep-eql/index.d.ts
+  s_a408aacd0cd067::t_64cc2dbd455bf4 1-38
+node_modules/vitest/dist/mocker.js
+  s_a408aacd0cd067::t_ed873891865cde 1
+node_modules/@jridgewell/sourcemap-codec/package.json
+  s_a408aacd0cd067::t_2f85d5df8fb9d1 1-63
+node_modules/debug/src/browser.js
+  s_a408aacd0cd067::t_c44465466e9ab2 1-272
+node_modules/typescript/lib/lib.es2016.full.d.ts
+  s_a408aacd0cd067::t_aa546a8f60c3cf 1-23
+node_modules/esbuild/README.md
+  s_a408aacd0cd067::t_cb1ab386fef6d5 1-3
+node_modules/typescript/lib/lib.es2015.d.ts
+  s_a408aacd0cd067::t_f03a4ba32a5eb6 1-28
+node_modules/@deepseek-ai/dsh-llm/lib/types/api-key.d.ts
+  s_a408aacd0cd067::t_cad7cb07702995 1-28
+node_modules/vite/types/internal/cssPreprocessorOptions.d.ts
+  s_a408aacd0cd067::t_32e4aee547b969 1-44
+node_modules/@esbuild/win32-x64/README.md
+  s_a408aacd0cd067::t_eaeccaf5b17eff 1-3
+node_modules/vitest/dist/chunks/index.BCWujgDG.js
+  s_a408aacd0cd067::t_6341c39d6bd6c2 1-231
+node_modules/source-map-js/source-map.d.ts
+  s_a408aacd0cd067::t_540460cd6d2f7b 1-104
+node_modules/nanoid/async/package.json
+  s_a408aacd0cd067::t_f417717d61900c 1-12
+node_modules/@vitest/utils/dist/index.js
+  s_a408aacd0cd067::t_5fef3d967cf05b 1-633
+node_modules/@deepseek-ai/cordis/package.json
+  s_a408aacd0cd067::t_a0379abbdd81fd 1-53
+node_modules/vitest/dist/reporters.js
+  s_a408aacd0cd067::t_6dc7b371fae3ef 1-23
+node_modules/typescript/lib/lib.es2020.number.d.ts
+  s_a408aacd0cd067::t_2394c979fc0787 1-28
+node_modules/@deepseek-ai/dsh-attachment/lib/types/admission.d.ts
+  s_a408aacd0cd067::t_069704c9eb1225 1-15
+node_modules/siginfo/package.json
+  s_a408aacd0cd067::t_ec6a55f15d888e 1-32
+node_modules/nanoid/non-secure/index.js
+  s_a408aacd0cd067::t_51976d1d26e593 1-24
+node_modules/@vitest/mocker/dist/mocker.d-Ce9_ySj5.d.ts
+  s_a408aacd0cd067::t_65b7fa58ec5a0a 1-83
+node_modules/@standard-schema/spec/README.md
+  s_a408aacd0cd067::t_25e37d3fba5507 1-198
+node_modules/expect-type/dist/utils.js
+  s_a408aacd0cd067::t_5bcd010cbdd560 1-19
+node_modules/@vitest/runner/dist/tasks.d-CkscK4of.d.ts
+  s_a408aacd0cd067::t_cb7261ec0fd2fd 1-558
+node_modules/vite/types/import-meta.d.ts
+  s_a408aacd0cd067::t_be0f53109d6678 1-5
+node_modules/@deepseek-ai/dsh-agent/lib/types/dispatch.js
+  s_a408aacd0cd067::t_ee080ec1502dab 1-95
+node_modules/vite/dist/node/chunks/optimizer.js
+  s_a408aacd0cd067::t_0b87ecdc757d2d 1-4
+node_modules/vitest/dist/config.js
+  s_a408aacd0cd067::t_d4c5447d415d07 1-21
+node_modules/@deepseek-ai/cosmokit/lib/index.js
+  s_a408aacd0cd067::t_d2623a72ad74fa 1-325
+node_modules/std-env/dist/index.d.ts
+  s_a408aacd0cd067::t_b159b3f5f06c02 1-92
+node_modules/postcss/lib/lazy-result.js
+  s_a408aacd0cd067::t_0f45c4fd669357 1-626
+node_modules/vitest/dist/suite.js
+  s_a408aacd0cd067::t_bf8c932bf7e6bb 1-5
+node_modules/typescript/lib/typescript.js
+  s_a408aacd0cd067::t_70c85ec411eb17 1-200276
+node_modules/@vitest/expect/LICENSE
+  s_a408aacd0cd067::t_b2d9f6ee7c063f 1-21
+node_modules/@deepseek-ai/schemastery/package.json
+  s_a408aacd0cd067::t_845f71238131c4 1-39
+node_modules/fdir/dist/index.d.mts
+  s_a408aacd0cd067::t_5667025e1f1116 1-155
+node_modules/rollup/dist/shared/fsevents-importer.js
+  s_a408aacd0cd067::t_1a81b9e2f80ef7 1-37
+node_modules/postcss/lib/stringify.js
+  s_a408aacd0cd067::t_eb34ca29f6f36a 1-11
+node_modules/@deepseek-ai/cosmokit/lib/types/types.d.ts.map
+  s_a408aacd0cd067::t_203a21253c07db 1
+node_modules/@vitest/expect/dist/index.js
+  s_a408aacd0cd067::t_1d60d662733801 1-1799
+node_modules/strip-literal/dist/index.d.mts
+  s_a408aacd0cd067::t_9d84419dd5b422 1-30
+node_modules/vitest/dist/chunks/index.CwejwG0H.js
+  s_a408aacd0cd067::t_b1aa06deb628a1 1-105
+node_modules/esbuild/lib/main.js
+  s_a408aacd0cd067::t_827f48e9313ba3 1-2536
+node_modules/magic-string/dist/magic-string.es.mjs
+  s_a408aacd0cd067::t_fc803595e025b1 1-1588
+node_modules/vite-node/dist/client.mjs
+  s_a408aacd0cd067::t_f3946226664ce3 1-507
+node_modules/estree-walker/src/sync.js
+  s_a408aacd0cd067::t_524f532ee5e90b 1-152
+.gitignore
+  s_a408aacd0cd067::t_803e8d3fe74f02 1-5
+node_modules/@vitest/utils/LICENSE
+  s_a408aacd0cd067::t_0a766565877c57 1-21
+node_modules/@vitest/mocker/dist/chunk-utils.js
+  s_a408aacd0cd067::t_583d80a25abe6a 1-16
+node_modules/siginfo/README.md
+  s_a408aacd0cd067::t_71d4fe71b13be7 1-47
+node_modules/@vitest/spy/LICENSE
+  s_a408aacd0cd067::t_294a9b527e3b42 1-21
+node_modules/@vitest/utils/diff.d.ts
+  s_a408aacd0cd067::t_5e612e5b48f4b6 1
+node_modules/@deepseek-ai/dsh-typert-protocol/lib/types/index.js
+  s_a408aacd0cd067::t_cc8dddfb4de6b7 1-139
+node_modules/typescript/lib/tsserverlibrary.js
+  s_a408aacd0cd067::t_4186be2dbc4855 1-21
+node_modules/@deepseek-ai/dsh-session/lib/types/invariant.js
+  s_a408aacd0cd067::t_9c164c2e3ad547 1-199
+node_modules/vitest/dist/workers/vmForks.js
+  s_a408aacd0cd067::t_be99abd5593a4c 1-47
+node_modules/debug/src/node.js
+  s_a408aacd0cd067::t_5465d8f9f61c79 1-263
+node_modules/chai/LICENSE
+  s_a408aacd0cd067::t_a5a370b7dd882a 1-21
+node_modules/vitest/dist/snapshot.d.ts
+  s_a408aacd0cd067::t_ee8f28d1f0005e 1-9
+node_modules/@vitest/expect/package.json
+  s_a408aacd0cd067::t_c1d8dbb2b39150 1-46
+node_modules/@vitest/utils/dist/error.js
+  s_a408aacd0cd067::t_c997b90b3a6aa7 1-162
+node_modules/postcss/lib/no-work-result.js
+  s_a408aacd0cd067::t_2e1744c43a9a23 1-137
+node_modules/@deepseek-ai/dsh-llm/README.i18n.yaml
+  s_a408aacd0cd067::t_c64aa115c0bcf9 1-6
+node_modules/postcss/lib/node.js
+  s_a408aacd0cd067::t_a37f12902d63d3 1-494
+node_modules/vite/dist/client/env.mjs
+  s_a408aacd0cd067::t_b0977b1e07f9b6 1-19
+node_modules/loupe/lib/function.d.ts
+  s_a408aacd0cd067::t_c8e52330b7517b 1-7
+node_modules/why-is-node-running/index.js
+  s_a408aacd0cd067::t_3a19b008477de3 1-67
+node_modules/@vitest/mocker/README.md
+  s_a408aacd0cd067::t_c42a6a116ef22e 1-5
+node_modules/typescript/lib/lib.es2019.array.d.ts
+  s_a408aacd0cd067::t_9c4a410de75ce8 1-79
+node_modules/vite/types/metadata.d.ts
+  s_a408aacd0cd067::t_40ba9a72eb09b3 1-33
+node_modules/why-is-node-running/package.json
+  s_a408aacd0cd067::t_8d7d3cdbb934a1 1-39
+node_modules/ms/readme.md
+  s_a408aacd0cd067::t_275e26ca6718fc 1-59
+node_modules/loupe/lib/html.d.ts.map
+  s_a408aacd0cd067::t_84b17369fdee26 1
+node_modules/vitest/dist/chunks/inspector.C914Efll.js
+  s_a408aacd0cd067::t_b8b60194842b09 1-57
+node_modules/chai/lib/chai/utils/overwriteMethod.js
+  s_a408aacd0cd067::t_fe57e666be5b55 1-90
+node_modules/loupe/lib/promise.d.ts
+  s_a408aacd0cd067::t_64a71596408573 1-5
+node_modules/assertion-error/LICENSE
+  s_a408aacd0cd067::t_a2c1ce0ba24956 1-21
+node_modules/chai/lib/chai.js
+  s_a408aacd0cd067::t_8db97f5ca7559a 1-66
+node_modules/postcss/lib/declaration.d.ts
+  s_a408aacd0cd067::t_d784ec821db9cf 1-150
+node_modules/loupe/lib/helpers.js
+  s_a408aacd0cd067::t_8a7d704f0e914c 1-159
+node_modules/vitest/dist/index.js
+  s_a408aacd0cd067::t_cf1e99ead56a42 1-18
+node_modules/vitest/dist/chunks/globals.DEHgCU4V.js
+  s_a408aacd0cd067::t_b6be574c798e7b 1-26
+node_modules/typescript/lib/lib.es2017.typedarrays.d.ts
+  s_a408aacd0cd067::t_1a461d095daf59 1-53
+node_modules/typescript/lib/lib.es2023.d.ts
+  s_a408aacd0cd067::t_cb37a1730a9c64 1-22
+node_modules/source-map-js/lib/quick-sort.js
+  s_a408aacd0cd067::t_8ef10efeddd85f 1-132
+node_modules/rollup/dist/es/shared/watch.js
+  s_a408aacd0cd067::t_0f8ca3d471eb05 1-9909
+node_modules/loupe/lib/set.js
+  s_a408aacd0cd067::t_a18cc28042e0cb 1-15
+node_modules/@deepseek-ai/dsh-session/lib/types/json.js
+  s_a408aacd0cd067::t_2c63667b383671 1-174
+node_modules/@deepseek-ai/dsh-scope/lib/types/invariant.d.ts
+  s_a408aacd0cd067::t_078283b892d129 1-13
+node_modules/tinypool/dist/utils-De75vAgL.js
+  s_a408aacd0cd067::t_6ba6479ba32fa1 1-10
+node_modules/.bin/tsserver.ps1
+  s_a408aacd0cd067::t_55841f893718c4 1-28
+node_modules/typescript/lib/lib.es2015.reflect.d.ts
+  s_a408aacd0cd067::t_d29d02d53ba32d 1-144
+node_modules/rollup/dist/loadConfigFile.d.ts
+  s_a408aacd0cd067::t_b50d5d8ae85a76 1-20
+node_modules/chai/register-should.js
+  s_a408aacd0cd067::t_e2192fd817238e 1-3
+node_modules/expect-type/dist/overloads.d.ts
+  s_a408aacd0cd067::t_2b67fd7979c711 1-394
+node_modules/@vitest/snapshot/dist/environment.d.ts
+  s_a408aacd0cd067::t_c167f96a0ddf2c 1-16
+node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts
+  s_a408aacd0cd067::t_bd8555e8930bad 1-41
+node_modules/@deepseek-ai/dsh-llm/lib/types/index.js
+  s_a408aacd0cd067::t_cd9e1e19c63784 1-730
+node_modules/picomatch/lib/parse.js
+  s_a408aacd0cd067::t_6adefa7714845c 1-1416
+node_modules/loupe/lib/set.d.ts
+  s_a408aacd0cd067::t_8f9b4aa698c992 1-3
+node_modules/picomatch/lib/constants.js
+  s_a408aacd0cd067::t_0246a07dca3f65 1-184
+node_modules/esbuild/lib/main.d.ts
+  s_a408aacd0cd067::t_cc73f603d3a1ce 1-720
+node_modules/magic-string/package.json
+  s_a408aacd0cd067::t_623e8efd5ed97a 1-67
+node_modules/@deepseek-ai/dsh-session/lib/types/json.d.ts
+  s_a408aacd0cd067::t_a7de7fb13733ee 1-36
+node_modules/tinyglobby/README.md
+  s_a408aacd0cd067::t_273a2e9abc889b 1-25
+node_modules/source-map-js/lib/base64-vlq.js
+  s_a408aacd0cd067::t_df53f59f619bbf 1-140
+node_modules/typescript/lib/lib.es2022.regexp.d.ts
+  s_a408aacd0cd067::t_77423ee60ea020 1-39
+node_modules/@vitest/runner/dist/chunk-hooks.js
+  s_a408aacd0cd067::t_35dc3780847719 1-2254
+node_modules/magic-string/LICENSE
+  s_a408aacd0cd067::t_8acb657c29086c 1-7
+node_modules/pathe/dist/utils.mjs
+  s_a408aacd0cd067::t_41f59891b483f1 1-77
+node_modules/vite/types/internal/terserOptions.d.ts
+  s_a408aacd0cd067::t_2ebdc19ad149d3 1-11
+node_modules/@deepseek-ai/dsh-llm/lib/types/never.d.ts
+  s_a408aacd0cd067::t_31be109bd453b5 1-16
+node_modules/vitest/dist/config.cjs
+  s_a408aacd0cd067::t_60136826b59fe5 1-148
+node_modules/vite/dist/node/chunks/preview.js
+  s_a408aacd0cd067::t_07327546076982 1-4
+node_modules/postcss/LICENSE
+  s_a408aacd0cd067::t_08cc82e54f0da9 1-20
+node_modules/tinyrainbow/dist/chunk-BVHSVHOK.js
+  s_a408aacd0cd067::t_c614e84dbda07f 1-90
+node_modules/picocolors/types.d.ts
+  s_a408aacd0cd067::t_0430f7e4d240e4 1-51
+node_modules/pathe/dist/index.cjs
+  s_a408aacd0cd067::t_9d1ff208ce6f0c 1-39
+node_modules/@vitest/runner/README.md
+  s_a408aacd0cd067::t_14f5e324804cae 1-5
+node_modules/@deepseek-ai/dsh-session/LICENSE
+  s_a408aacd0cd067::t_b8dc03ce2f867a 1-21
+node_modules/@vitest/runner/dist/utils.js
+  s_a408aacd0cd067::t_79ea47185b4c36 1-6
+node_modules/@deepseek-ai/dsh-session/lib/types/preparation.d.ts
+  s_a408aacd0cd067::t_9621c5e1c47dc3 1-33
+node_modules/@deepseek-ai/dsh-session/lib/types/request-header.js
+  s_a408aacd0cd067::t_eaae1d481eac94 1-65
+node_modules/@deepseek-ai/dsh-session/lib/types/repair.d.ts
+  s_a408aacd0cd067::t_8ad85e5aeb1ba7 1-22
+node_modules/pathe/dist/index.d.ts
+  s_a408aacd0cd067::t_af985ef6e1d873 1-47
+node_modules/@vitest/utils/dist/diff.js
+  s_a408aacd0cd067::t_a25cef0546e457 1-2185
+node_modules/@deepseek-ai/dsh-attachment/lib/index.js
+  s_a408aacd0cd067::t_7738f05e7ccd32 1-116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "214136d51fb4a3873b54c0e2c63b6173149186e0",
+  "prompts": {},
+  "sessions": {
+    "s_a408aacd0cd067": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a8be9bf4f9c3d409c44a586",
+        "model": "volc/deepseek-v4-flash-0731"
+      },
+      "human_author": null,
+      "custom_attributes": {
+        "tool_use_id": "6a8d51956d4ca122c36cd481",
+        "operation_id": "6a8d51956d4ca122c36cd481",
+        "runtime_client": "trae-tob-git-ai",
+        "client_type": "ide",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "edit_kind": "file_edit",
+        "external_session_id": "6a8be9bf4f9c3d409c44a586",
+        "session_id": "6a8be9bf4f9c3d409c44a586",
+        "tool_type": "builtin",
+        "source_scene": "agent",
+        "dedupe_key": "6a8be9bf4f9c3d409c44a586:6a8d51956d4ca122c36cd481:afterEdit:a1bd8c9a"
+      }
+    }
+  }
+}
