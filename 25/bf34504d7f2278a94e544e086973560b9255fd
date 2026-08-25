@@ -1,0 +1,38 @@
+package.json
+  s_a408aacd0cd067::t_b0bdb8744bdfc7 5-13
+README.md
+  s_a408aacd0cd067::t_b8f688ba278664 3-11
+.github/workflows/ci.yml
+  s_a408aacd0cd067::t_4740a34137bbef 1-32
+package-lock.json
+  s_a408aacd0cd067::t_2d8fcb2af63c41 22,48,55,71,83,94,107,124,135,150,166,177,188,199,216,233,250,267,284,301,318,335,352,369,386,403,420,437,454,471,488,505,522,539,556,573,590,607,624,641,648,665,679,693,707,721,735,749,763,777,791,805,819,833,847,861,875,889,903,917,931,945,959,973,987,1001,1015,1022,1033,1040,1047,1064,1091,1104,1119,1134,1147,1162,1172,1182,1199,1209,1227,1237,1244,1286,1296,1306,1324,1339,1346,1353,1363,1370,1389,1396,1406,1413,1426,1455,1501,1508,1518,1525,1532,1545,1552,1559,1576,1586,1596,1606,1620,1695,1718,1791
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "25bf34504d7f2278a94e544e086973560b9255fd",
+  "prompts": {},
+  "sessions": {
+    "s_a408aacd0cd067": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a8be9bf4f9c3d409c44a586",
+        "model": "volc/deepseek-v4-flash-0731"
+      },
+      "human_author": "Sylvan <hello@itcast.cn>",
+      "custom_attributes": {
+        "tool_use_id": "6a8d5ec16d4ca122c36cd590",
+        "session_id": "6a8be9bf4f9c3d409c44a586",
+        "runtime_client": "trae-tob-git-ai",
+        "operation_id": "6a8d5ec16d4ca122c36cd590",
+        "client_type": "ide",
+        "external_session_id": "6a8be9bf4f9c3d409c44a586",
+        "edit_kind": "file_edit",
+        "tool_type": "builtin",
+        "dedupe_key": "6a8be9bf4f9c3d409c44a586:6a8d5ec16d4ca122c36cd590:afterEdit:f5b94007",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "source_scene": "agent"
+      }
+    }
+  }
+}
