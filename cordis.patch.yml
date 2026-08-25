@@ -1,0 +1,4 @@
+# dsh-watchdog Cordis patch — add to ~/.dsh/profiles/<profile>/cordis.patch.yml
+- insert:
+    - id: dsh-watchdog
+      name: dsh-watchdog
