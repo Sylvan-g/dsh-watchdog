@@ -2,6 +2,15 @@
   "name": "dsh-watchdog",
   "version": "0.2.0",
   "description": "Agent reliability watchdog plugin for DeepSeek Harness (dsh)",
+  "author": "Sylvan-g",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sylvan-g/dsh-watchdog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sylvan-g/dsh-watchdog/issues"
+  },
+  "homepage": "https://github.com/Sylvan-g/dsh-watchdog#readme",
   "type": "module",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",

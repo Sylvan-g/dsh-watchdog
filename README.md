@@ -1,5 +1,14 @@
 # dsh-watchdog
 
+<div align="center">
+
+[![CI](https://github.com/Sylvan-g/dsh-watchdog/actions/workflows/ci.yml/badge.svg)](https://github.com/Sylvan-g/dsh-watchdog/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/Sylvan-g/dsh-watchdog)](https://github.com/Sylvan-g/dsh-watchdog/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/Sylvan-g/dsh-watchdog)](https://github.com/Sylvan-g/dsh-watchdog/releases)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)](https://www.typescriptlang.org/)
+
+</div>
+
 > 一个运行在 [DeepSeek Harness (dsh)](https://github.com/deepseek-ai) 内的 **Agent 运行可靠性守卫插件**。
 > 版本：v0.2.0 · License：MIT
 > 本文档整合了原 `docs/PRD.md`（需求）与 `docs/ARCHITECTURE.md`（架构），并反映 v0.2.0 实际实现状态。
