@@ -1,0 +1,32 @@
+LICENSE
+  s_a408aacd0cd067::t_cbf709b8acf967 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "9419d188484e61da89f0f06eb5e7ae690daae3fb",
+  "prompts": {},
+  "sessions": {
+    "s_a408aacd0cd067": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a8be9bf4f9c3d409c44a586",
+        "model": "volc/deepseek-v4-flash-0731"
+      },
+      "human_author": "Sylvan <hello@itcast.cn>",
+      "custom_attributes": {
+        "dedupe_key": "6a8be9bf4f9c3d409c44a586:6a8d54006d4ca122c36cd4ac:afterEdit:936e56c9",
+        "operation_id": "6a8d54006d4ca122c36cd4ac",
+        "tool_use_id": "6a8d54006d4ca122c36cd4ac",
+        "client_type": "ide",
+        "source_scene": "agent",
+        "tool_id": "icube:applyChatSnapshotPatch",
+        "tool_type": "builtin",
+        "edit_kind": "file_edit",
+        "session_id": "6a8be9bf4f9c3d409c44a586",
+        "external_session_id": "6a8be9bf4f9c3d409c44a586",
+        "runtime_client": "trae-tob-git-ai"
+      }
+    }
+  }
+}
